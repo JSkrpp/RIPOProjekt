@@ -1,7 +1,7 @@
-def main():
-    number = 2+2
-    print(number)
+from Interface import Interface
 
+def main():
+    Interface()
 
 if __name__ == "__main__":
     main()
