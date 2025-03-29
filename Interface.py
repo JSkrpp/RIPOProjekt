@@ -4,7 +4,6 @@ import cv2
 import cv2 as cv
 import platform
 import subprocess
-import pygrabber
 from PIL import Image, ImageTk
 
 class Interface:
