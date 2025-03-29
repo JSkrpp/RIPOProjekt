@@ -6,13 +6,14 @@ import platform
 import subprocess
 from PIL import Image, ImageTk
 
+
 class Interface:
 
     def __init__(self):
         self.m = tk.Tk()
         self.m.geometry("1920x1080")
         self.m.minsize(1920, 1080)
-        self.m.maxsize(1920,1080)
+        self.m.maxsize(1920, 1080)
         self.m.bind('<Escape>', lambda e: self.m.quit())
 
         self.label_widget = tk.Label(self.m, width=854, height=480)
@@ -33,14 +34,14 @@ class Interface:
         self.camera_menu = tk.OptionMenu(self.m, self.selected_camera, *[name for name, _ in self.available_cameras])
         self.camera_menu.place(x=150, y=500)
 
-        self.button1 = tk.Button(self.m, text="Open Camera", command =self.open_camera)
+        self.button1 = tk.Button(self.m, text="Open Camera", command=self.open_camera)
         self.button1.place(x=350, y=500)
 
         self.button2 = tk.Button(self.m, text="Take a picture", command=self.take_picture)
         self.button2.place(x=450, y=500)
 
-        self.button3 = tk.Button(self.m, text="Choose a photo for the model", command = self.open_file_explorer)
-        self.button3.place(x=1400, y =1020)
+        self.button3 = tk.Button(self.m, text="Choose a photo for the model", command=self.open_file_explorer)
+        self.button3.place(x=1400, y=1020)
 
         self.m.mainloop()
 
