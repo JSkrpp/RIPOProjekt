@@ -24,7 +24,6 @@ from core.model_handler.face_recognition.FaceRecModelHandler import FaceRecModel
 with open('config/model_conf.yaml') as f:
     model_conf = yaml.load(f, Loader=yaml.SafeLoader)
 
-
 # initialize models in pipeline
 def load_models():
         model_path = 'models'
@@ -60,6 +59,15 @@ def extract_face_feature(image, face_det_handler, face_align_handler, face_rec_h
 
 # recognizing from saved pictures
 def recognize(cap):
+    with open('config/app_conf.yaml') as f:
+        app_conf = yaml.load(f, Loader=yaml.SafeLoader)
+
+    draw_boxes = app_conf['recognition']['draw_boxes']
+    box_color = tuple(app_conf['recognition']['box_color'])
+    box_thickness = app_conf['recognition']['box_thickness']
+    show_score = app_conf['recognition']['show_score']
+    font_scale = app_conf['recognition']['font_scale']
+    font_color = tuple(app_conf['recognition']['font_color'])
     face_det_handler, face_align_handler, face_rec_handler = load_models()
 
     collected_dir = './collected_images'
@@ -72,6 +80,9 @@ def recognize(cap):
         if feature is not None:
             stored_features[img_path] = feature
 
+    best_overall_match = None
+    best_overall_score = -1
+
     while True:
         ret, frame = cap.read()
         if not ret:
@@ -79,14 +90,14 @@ def recognize(cap):
 
         try:
             detections = face_det_handler.inference_on_image(frame)
-            logger.info('Successful face detection!')
         except Exception as e:
             logger.error('Face detection failed:', exc_info=True)
             sys.exit(-1)
 
-        for box in detections:
-            box = list(map(int, box))
-            cv2.rectangle(frame, (box[0], box[1]), (box[2], box[3]), (0, 0, 255), 2)
+        if draw_boxes:
+            for box in detections:
+                box = list(map(int, box))
+                cv2.rectangle(frame, (box[0], box[1]), (box[2], box[3]), box_color, box_thickness)
 
         live_feature = extract_face_feature(frame, face_det_handler, face_align_handler, face_rec_handler)
         if live_feature is None:
@@ -103,9 +114,15 @@ def recognize(cap):
                 best_score = score
                 best_match = img_path
 
-        if best_match:
+        if best_match and best_score > best_overall_score:
+            best_overall_score = best_score
+            best_overall_match = best_match
+            logger.info(
+                f"Updated best face recognition as: \"{os.path.basename(best_overall_match)[:-4]}\" with certainty: {best_overall_score:.4f}")
+
+        if best_match and show_score:
             cv2.putText(frame, f'Match: {os.path.basename(best_match)[:-4]} ({best_score:.2f})',
-                        (10, 50), cv2.FONT_HERSHEY_SIMPLEX, 0.6, (0, 0, 255), 2)
+                        (10, 50), cv2.FONT_HERSHEY_SIMPLEX, font_scale, font_color, 1)
 
         cv2.imshow('Rozpoznawanie Twarzy', frame)
         if cv2.waitKey(1) & 0xFF == ord('q'):
@@ -113,6 +130,7 @@ def recognize(cap):
 
     cap.release()
     cv2.destroyAllWindows()
+
 
 
 # pathway for camera

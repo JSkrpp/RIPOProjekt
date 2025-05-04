@@ -17,17 +17,17 @@ with open('config/model_conf.yaml') as f:
     model_conf = yaml.safe_load(f)
 
 # loads the face detection model
-def load_model():
+def load_det_model():
     model_path = 'models'
     scene = 'non-mask'
     model_category = 'face_detection'
     model_name = model_conf[scene][model_category]
 
-    logger.info('Loading the face detection model...')
+    print('Loading the face detection model...')
     try:
         model_loader = FaceDetModelLoader(model_path, model_category, model_name)
         model, cfg = model_loader.load_model()
-        logger.info('Model loaded successfully!')
+        print('Model loaded successfully!')
         return FaceDetModelHandler(model, 'cuda:0', cfg)
     except Exception as e:
         logger.error('Failed to load model:', exc_info=True)
@@ -35,7 +35,14 @@ def load_model():
 
 # detects the faces on an image and saves when the detection score is the highest
 def detect_and_save(cap, entity_name):
-    detection_handler = load_model()
+    with open('config/app_conf.yaml') as f:
+        app_conf = yaml.load(f, Loader=yaml.SafeLoader)
+
+    draw_boxes = app_conf['detection']['draw_boxes']
+    box_color = tuple(app_conf['detection']['box_color'])
+    box_thickness = app_conf['detection']['box_thickness']
+
+    detection_handler = load_det_model()
     output_dir = 'collected_images'
     os.makedirs(output_dir, exist_ok=True)
 
@@ -49,19 +56,19 @@ def detect_and_save(cap, entity_name):
 
         try:
             detections = detection_handler.inference_on_image(frame)
-            logger.info('Successful face detection!')
         except Exception as e:
             logger.error('Face detection failed:', exc_info=True)
             sys.exit(-1)
 
-        for box in detections:
-            confidence = box[4]
-            if confidence > best_confidence:
-                best_face = frame.copy()
-                best_confidence = confidence
+        if draw_boxes:
+            for box in detections:
+                confidence = box[4]
+                if confidence > best_confidence:
+                    best_face = frame.copy()
+                    best_confidence = confidence
 
-            box = list(map(int, box))
-            cv2.rectangle(frame, (box[0], box[1]), (box[2], box[3]), (0, 0, 255), 2)
+                box = list(map(int, box))
+                cv2.rectangle(frame, (box[0], box[1]), (box[2], box[3]), box_color, box_thickness)
 
         cv2.imshow("Video", frame)
         if cv2.waitKey(1) & 0xFF == ord('q'):
@@ -69,7 +76,7 @@ def detect_and_save(cap, entity_name):
 
     cap.release()
     cv2.destroyAllWindows()
-
+    logger.info(f"Created template called: \"{entity_name}\" with face detection certainty: {best_confidence}.")
     if best_face is not None:
         cv2.imwrite(os.path.join(output_dir, f"{entity_name}.jpg"), best_face)
 

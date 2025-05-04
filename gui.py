@@ -16,10 +16,10 @@ def return_to_main(frame, root):
     lbl_title = tk.Label(frame, text="RiPO", font=("Arial", 16, "bold"), bg="#f0f0f0")
     lbl_title.pack(pady=15)
 
-    btn_train = ttk.Button(frame, text="Dodaj wzorzec", command=lambda: gui.detect_page(root))
+    btn_train = ttk.Button(frame, text="Dodaj wzorzec", command=lambda: detect_page(root))
     btn_train.pack(pady=10, padx=20, fill=tk.X)
 
-    btn_recognize = ttk.Button(frame, text="Rozpoznaj twarz", command=lambda: gui.recognize_page(root))
+    btn_recognize = ttk.Button(frame, text="Rozpoznaj twarz", command=lambda: recognize_page(root))
     btn_recognize.pack(pady=10, padx=20, fill=tk.X)
 
     btn_config = ttk.Button(frame, text="Konfigurator", command=configure)
