@@ -10,12 +10,14 @@ def return_to_main(frame, root):
     for widget in frame.winfo_children():
         widget.destroy()
 
+    style = ttk.Style()
+    style.configure("TButton", font=("Segoe UI", 12), padding=10)
+
     frame = tk.Frame(root, bg="#f0f0f0")
     frame.pack(side=tk.TOP, padx=20, pady=20, expand=True)
 
     lbl_title = tk.Label(frame, text="RiPO", font=("Arial", 16, "bold"), bg="#f0f0f0")
     lbl_title.pack(pady=15)
-
     btn_train = ttk.Button(frame, text="Dodaj wzorzec", command=lambda: detect_page(root))
     btn_train.pack(pady=10, padx=20, fill=tk.X)
 

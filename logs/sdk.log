@@ -1,171 +1,849 @@
-INFO 2025-05-04 15:46:13 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
-INFO 2025-05-04 15:46:14 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
-INFO 2025-05-04 15:46:14 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
-INFO 2025-05-04 15:46:14 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
-INFO 2025-05-04 15:46:14 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
-INFO 2025-05-04 15:46:14 FaceRecModelLoader.py: 30] Successfully loaded the face recognition model!
-INFO 2025-05-04 15:46:17 recognition.py: 111] Updated best match: "elon busk" with certainty: 0.8704
-INFO 2025-05-04 15:46:17 recognition.py: 111] Updated best match: "elon busk" with certainty: 0.8715
-INFO 2025-05-04 15:46:18 recognition.py: 111] Updated best match: "elon busk" with certainty: 0.8886
-INFO 2025-05-04 15:46:18 recognition.py: 111] Updated best match: "elon busk" with certainty: 0.8971
-INFO 2025-05-04 15:46:18 recognition.py: 111] Updated best match: "elon busk" with certainty: 0.9080
-INFO 2025-05-04 15:46:19 recognition.py: 111] Updated best match: "elon busk" with certainty: 0.9147
-INFO 2025-05-04 15:46:19 recognition.py: 111] Updated best match: "elon busk" with certainty: 0.9248
-INFO 2025-05-04 15:46:19 recognition.py: 111] Updated best match: "elon busk" with certainty: 0.9256
-INFO 2025-05-04 15:46:19 recognition.py: 111] Updated best match: "elon busk" with certainty: 0.9293
-INFO 2025-05-04 15:46:19 recognition.py: 111] Updated best match: "elon busk" with certainty: 0.9332
-INFO 2025-05-04 15:46:19 recognition.py: 111] Updated best match: "elon busk" with certainty: 0.9373
-INFO 2025-05-04 15:46:20 recognition.py: 111] Updated best match: "elon busk" with certainty: 0.9391
-INFO 2025-05-04 16:48:28 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
-INFO 2025-05-04 16:48:29 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
-INFO 2025-05-04 16:48:45 detection.py: 87] Created template called: "test" with face detection certainty: 0.9998911619186401.
-INFO 2025-05-04 16:56:41 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
-INFO 2025-05-04 16:56:41 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
-INFO 2025-05-04 16:56:47 detection.py: 78] Created template called: "test" with face detection certainty: 0.9998908042907715.
-WARNING 2025-05-04 17:01:54 recognition.py: 150] No video file selected.
-INFO 2025-05-04 17:01:59 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
-INFO 2025-05-04 17:01:59 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
-INFO 2025-05-04 17:02:06 detection.py: 79] Created template called: "teste" with face detection certainty: 0.
-INFO 2025-05-04 17:02:51 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
-INFO 2025-05-04 17:02:51 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
-INFO 2025-05-04 17:02:56 detection.py: 79] Created template called: "test" with face detection certainty: 0.
-INFO 2025-05-04 17:03:09 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
-INFO 2025-05-04 17:03:10 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
-INFO 2025-05-04 17:04:27 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
-INFO 2025-05-04 17:04:27 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
-INFO 2025-05-04 17:04:36 detection.py: 79] Created template called: "ewt" with face detection certainty: 0.9998908042907715.
-INFO 2025-05-04 17:05:01 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
-INFO 2025-05-04 17:05:01 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
-INFO 2025-05-04 17:05:07 detection.py: 79] Created template called: "test" with face detection certainty: 0.9998908042907715.
-INFO 2025-05-04 17:08:40 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
-INFO 2025-05-04 17:08:40 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
-INFO 2025-05-04 17:08:50 detection.py: 79] Created template called: "test" with face detection certainty: 0.9998908042907715.
-INFO 2025-05-04 17:11:30 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
-INFO 2025-05-04 17:11:31 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
-INFO 2025-05-04 17:11:34 detection.py: 79] Created template called: "test" with face detection certainty: 0.9998908042907715.
-INFO 2025-05-04 17:11:45 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
-INFO 2025-05-04 17:11:45 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
-INFO 2025-05-04 17:11:45 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
-INFO 2025-05-04 17:11:46 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
-INFO 2025-05-04 17:11:46 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
-INFO 2025-05-04 17:11:46 FaceRecModelLoader.py: 30] Successfully loaded the face recognition model!
-INFO 2025-05-04 17:11:48 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.8678
-INFO 2025-05-04 17:11:49 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.8832
-INFO 2025-05-04 17:11:49 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.8909
-INFO 2025-05-04 17:11:49 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.8993
-INFO 2025-05-04 17:11:49 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.9021
-INFO 2025-05-04 17:11:50 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.9147
-INFO 2025-05-04 17:11:50 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.9221
-INFO 2025-05-04 17:11:50 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.9287
-INFO 2025-05-04 17:11:50 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.9320
-INFO 2025-05-04 17:11:50 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.9331
-INFO 2025-05-04 17:12:13 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
-INFO 2025-05-04 17:12:14 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
-INFO 2025-05-04 17:12:14 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
-INFO 2025-05-04 17:12:14 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
-INFO 2025-05-04 17:12:14 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
-INFO 2025-05-04 17:12:14 FaceRecModelLoader.py: 30] Successfully loaded the face recognition model!
-INFO 2025-05-04 17:12:15 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.8704
-INFO 2025-05-04 17:12:15 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.8715
-INFO 2025-05-04 17:12:16 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.8886
-INFO 2025-05-04 17:12:16 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.8971
-INFO 2025-05-04 17:12:17 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.9081
-INFO 2025-05-04 17:12:17 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.9147
-INFO 2025-05-04 17:12:17 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.9248
-INFO 2025-05-04 17:12:17 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.9257
-INFO 2025-05-04 17:12:17 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.9294
-INFO 2025-05-04 17:12:17 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.9332
-INFO 2025-05-04 17:12:17 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.9373
-INFO 2025-05-04 17:12:18 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.9391
-INFO 2025-05-04 17:13:04 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
-INFO 2025-05-04 17:13:04 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
-INFO 2025-05-04 17:13:04 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
-INFO 2025-05-04 17:13:04 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
-INFO 2025-05-04 17:13:04 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
-INFO 2025-05-04 17:13:04 FaceRecModelLoader.py: 30] Successfully loaded the face recognition model!
-INFO 2025-05-04 17:13:05 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.8678
-INFO 2025-05-04 17:13:07 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.8832
-INFO 2025-05-04 17:13:07 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.8909
-INFO 2025-05-04 17:13:07 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.8993
-INFO 2025-05-04 17:13:07 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.9021
-INFO 2025-05-04 17:13:07 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.9147
-INFO 2025-05-04 17:13:08 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.9221
-INFO 2025-05-04 17:13:08 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.9287
-INFO 2025-05-04 17:13:08 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.9320
-INFO 2025-05-04 17:13:08 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.9331
-INFO 2025-05-04 17:15:02 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
-INFO 2025-05-04 17:15:02 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
-INFO 2025-05-04 17:15:02 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
-INFO 2025-05-04 17:15:02 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
-INFO 2025-05-04 17:15:02 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
-INFO 2025-05-04 17:15:03 FaceRecModelLoader.py: 30] Successfully loaded the face recognition model!
-INFO 2025-05-04 17:15:05 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.8705
-INFO 2025-05-04 17:15:05 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.8715
-INFO 2025-05-04 17:15:07 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.8886
-INFO 2025-05-04 17:15:07 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.8971
-INFO 2025-05-04 17:15:07 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.9080
-INFO 2025-05-04 17:15:07 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.9147
-INFO 2025-05-04 17:15:07 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.9248
-INFO 2025-05-04 17:15:07 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.9257
-INFO 2025-05-04 17:15:07 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.9294
-INFO 2025-05-04 17:15:08 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.9332
-INFO 2025-05-04 17:15:08 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.9373
-INFO 2025-05-04 17:15:08 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.9391
-INFO 2025-05-04 17:17:12 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
-INFO 2025-05-04 17:17:12 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
-INFO 2025-05-04 17:17:15 detection.py: 79] Created template called: "test" with face detection certainty: 0.
-INFO 2025-05-04 17:17:18 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
-INFO 2025-05-04 17:17:19 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
-INFO 2025-05-04 17:17:22 detection.py: 79] Created template called: "test" with face detection certainty: 0.9998908042907715.
-WARNING 2025-05-04 17:17:50 recognition.py: 149] No video file selected.
-INFO 2025-05-04 17:17:55 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
-INFO 2025-05-04 17:17:55 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
-INFO 2025-05-04 17:17:57 detection.py: 79] Created template called: "yte" with face detection certainty: 0.9998908042907715.
-INFO 2025-05-04 17:19:34 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
-INFO 2025-05-04 17:19:34 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
-INFO 2025-05-04 17:19:34 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
-INFO 2025-05-04 17:19:34 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
-INFO 2025-05-04 17:19:34 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
-INFO 2025-05-04 17:19:35 FaceRecModelLoader.py: 30] Successfully loaded the face recognition model!
-INFO 2025-05-04 17:19:37 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.8678
-INFO 2025-05-04 17:19:38 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.8832
-INFO 2025-05-04 17:19:38 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.8910
-INFO 2025-05-04 17:19:38 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.8993
-INFO 2025-05-04 17:19:39 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.9020
-INFO 2025-05-04 17:19:39 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.9147
-INFO 2025-05-04 17:19:39 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.9221
-INFO 2025-05-04 17:19:39 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.9287
-INFO 2025-05-04 17:19:39 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.9320
-INFO 2025-05-04 17:19:39 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.9331
-INFO 2025-05-04 17:20:01 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
-INFO 2025-05-04 17:20:01 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
-INFO 2025-05-04 17:20:01 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
-INFO 2025-05-04 17:20:01 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
-INFO 2025-05-04 17:20:01 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
-INFO 2025-05-04 17:20:01 FaceRecModelLoader.py: 30] Successfully loaded the face recognition model!
-INFO 2025-05-04 17:20:02 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.8787
-INFO 2025-05-04 17:20:02 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.8887
-INFO 2025-05-04 17:20:03 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.9014
-INFO 2025-05-04 17:20:04 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.9070
-INFO 2025-05-04 17:20:04 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.9255
-INFO 2025-05-04 17:20:04 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.9288
-INFO 2025-05-04 17:20:04 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.9361
-INFO 2025-05-04 17:20:04 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.9451
-INFO 2025-05-04 17:20:04 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.9458
-INFO 2025-05-04 17:20:04 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.9466
-INFO 2025-05-04 17:20:04 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.9471
-INFO 2025-05-04 17:20:05 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.9499
-INFO 2025-05-04 17:20:23 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
-INFO 2025-05-04 17:20:24 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
-INFO 2025-05-04 17:20:24 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
-INFO 2025-05-04 17:20:24 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
-INFO 2025-05-04 17:20:24 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
-INFO 2025-05-04 17:20:24 FaceRecModelLoader.py: 30] Successfully loaded the face recognition model!
-INFO 2025-05-04 17:20:27 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.8788
-INFO 2025-05-04 17:20:27 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.8887
-INFO 2025-05-04 17:20:28 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.9014
-INFO 2025-05-04 17:20:28 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.9071
-INFO 2025-05-04 17:20:28 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.9255
-INFO 2025-05-04 17:20:28 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.9289
-INFO 2025-05-04 17:20:29 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.9361
-INFO 2025-05-04 17:20:29 recognition.py: 120] Updated best face recognition as: "elon busk" with certainty: 0.9452
+INFO 2025-05-11 12:58:09 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 12:58:09 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-11 12:58:09 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 12:58:10 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-11 12:58:10 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 12:58:10 FaceRecModelLoader.py: 33] Successfully loaded the face recognition model!
+INFO 2025-05-11 12:58:10 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 12:58:10 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-11 12:58:10 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 12:58:10 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-11 12:58:10 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 12:58:11 FaceRecModelLoader.py: 33] Successfully loaded the face recognition model!
+INFO 2025-05-11 12:59:17 detection.py: 108] Saved face feature for: "Julia" with confidence: 1.0000
+INFO 2025-05-11 12:59:58 detection.py: 108] Saved face feature for: "Czarek" with confidence: 1.0000
+INFO 2025-05-11 13:00:43 detection.py: 108] Saved face feature for: "Dawid" with confidence: 0.9999
+INFO 2025-05-11 13:03:11 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 13:03:11 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-11 13:03:11 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 13:03:11 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-11 13:03:11 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 13:03:11 FaceRecModelLoader.py: 33] Successfully loaded the face recognition model!
+INFO 2025-05-11 13:03:11 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 13:03:12 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-11 13:03:12 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 13:03:12 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-11 13:03:12 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 13:03:12 FaceRecModelLoader.py: 33] Successfully loaded the face recognition model!
+INFO 2025-05-11 13:03:37 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.2714
+INFO 2025-05-11 13:03:38 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.4199
+INFO 2025-05-11 13:03:38 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.4379
+INFO 2025-05-11 13:03:39 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.6339
+INFO 2025-05-11 13:03:40 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.6693
+INFO 2025-05-11 13:03:41 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.6937
+INFO 2025-05-11 13:03:42 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.7214
+INFO 2025-05-11 13:03:42 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.7321
+INFO 2025-05-11 13:03:43 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.7959
+INFO 2025-05-11 13:03:44 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.8407
+INFO 2025-05-11 13:03:44 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.8754
+INFO 2025-05-11 13:03:46 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.9234
+INFO 2025-05-11 13:03:46 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.9461
+INFO 2025-05-11 13:05:34 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: 0.4851
+INFO 2025-05-11 13:05:34 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: 0.7189
+INFO 2025-05-11 13:05:35 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: 0.8045
+INFO 2025-05-11 13:05:35 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: 0.8260
+INFO 2025-05-11 13:05:36 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: 0.8750
+INFO 2025-05-11 13:05:36 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: 0.8977
+INFO 2025-05-11 13:07:11 recognition.py: 125] Updated best face recognition as: "Dawid" with certainty: 0.4276
+INFO 2025-05-11 13:07:11 recognition.py: 125] Updated best face recognition as: "Dawid" with certainty: 0.5288
+INFO 2025-05-11 13:07:12 recognition.py: 125] Updated best face recognition as: "Dawid" with certainty: 0.6908
+INFO 2025-05-11 13:07:12 recognition.py: 125] Updated best face recognition as: "Dawid" with certainty: 0.7141
+INFO 2025-05-11 13:07:13 recognition.py: 125] Updated best face recognition as: "Dawid" with certainty: 0.7749
+INFO 2025-05-11 13:07:13 recognition.py: 125] Updated best face recognition as: "Dawid" with certainty: 0.8206
+INFO 2025-05-11 13:07:14 recognition.py: 125] Updated best face recognition as: "Dawid" with certainty: 0.8612
+INFO 2025-05-11 13:07:14 recognition.py: 125] Updated best face recognition as: "Dawid" with certainty: 0.9311
+INFO 2025-05-11 13:09:45 recognition.py: 125] Updated best face recognition as: "Dawid" with certainty: 0.0746
+INFO 2025-05-11 13:09:46 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.0931
+INFO 2025-05-11 13:09:47 recognition.py: 125] Updated best face recognition as: "Dawid" with certainty: 0.1033
+INFO 2025-05-11 13:09:47 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.1549
+INFO 2025-05-11 13:09:48 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.3286
+INFO 2025-05-11 13:09:49 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.3977
+INFO 2025-05-11 13:09:52 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.5182
+INFO 2025-05-11 13:09:55 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.5811
+INFO 2025-05-11 13:09:55 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.6024
+INFO 2025-05-11 13:09:57 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.6267
+INFO 2025-05-11 13:09:59 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.6401
+INFO 2025-05-11 13:10:01 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.6527
+INFO 2025-05-11 13:10:24 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.6603
+INFO 2025-05-11 13:11:10 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: 0.1764
+INFO 2025-05-11 13:11:10 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: 0.3242
+INFO 2025-05-11 13:11:11 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: 0.4786
+INFO 2025-05-11 13:11:12 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: 0.5274
+INFO 2025-05-11 13:11:15 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: 0.5299
+INFO 2025-05-11 13:11:15 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: 0.5692
+INFO 2025-05-11 13:11:19 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: 0.6001
+INFO 2025-05-11 13:11:19 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: 0.6103
+INFO 2025-05-11 13:11:25 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: 0.6180
+INFO 2025-05-11 13:13:32 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: 0.1100
+INFO 2025-05-11 13:13:32 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: 0.1595
+INFO 2025-05-11 13:13:33 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: 0.2482
+INFO 2025-05-11 13:13:33 recognition.py: 125] Updated best face recognition as: "Dawid" with certainty: 0.2847
+INFO 2025-05-11 13:13:34 recognition.py: 125] Updated best face recognition as: "Dawid" with certainty: 0.4055
+INFO 2025-05-11 13:13:35 recognition.py: 125] Updated best face recognition as: "Dawid" with certainty: 0.4141
+INFO 2025-05-11 13:13:38 recognition.py: 125] Updated best face recognition as: "Dawid" with certainty: 0.4611
+INFO 2025-05-11 13:13:41 recognition.py: 125] Updated best face recognition as: "Dawid" with certainty: 0.4812
+INFO 2025-05-11 13:13:42 recognition.py: 125] Updated best face recognition as: "Dawid" with certainty: 0.5547
+INFO 2025-05-11 13:15:25 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.1769
+INFO 2025-05-11 13:15:33 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.5183
+INFO 2025-05-11 13:15:33 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.5192
+INFO 2025-05-11 13:15:34 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.6744
+INFO 2025-05-11 13:15:36 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.6961
+INFO 2025-05-11 13:15:37 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.7110
+INFO 2025-05-11 13:16:39 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: 0.1074
+INFO 2025-05-11 13:16:40 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: 0.1589
+INFO 2025-05-11 13:16:40 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: 0.5145
+INFO 2025-05-11 13:16:40 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: 0.5810
+INFO 2025-05-11 13:16:41 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: 0.6315
+INFO 2025-05-11 13:16:42 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: 0.6686
+INFO 2025-05-11 13:16:42 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: 0.6725
+INFO 2025-05-11 13:16:50 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: 0.6781
+INFO 2025-05-11 13:18:26 recognition.py: 125] Updated best face recognition as: "Dawid" with certainty: 0.3024
+INFO 2025-05-11 13:18:26 recognition.py: 125] Updated best face recognition as: "Dawid" with certainty: 0.5835
+INFO 2025-05-11 13:18:27 recognition.py: 125] Updated best face recognition as: "Dawid" with certainty: 0.6596
+INFO 2025-05-11 13:18:28 recognition.py: 125] Updated best face recognition as: "Dawid" with certainty: 0.6873
+INFO 2025-05-11 13:19:38 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.0310
+INFO 2025-05-11 13:19:38 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.3943
+INFO 2025-05-11 13:19:38 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.4150
+INFO 2025-05-11 13:19:39 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.5608
+INFO 2025-05-11 13:19:39 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.5937
+INFO 2025-05-11 13:19:40 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.6220
+INFO 2025-05-11 13:19:40 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.6294
+INFO 2025-05-11 13:19:41 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.6555
+INFO 2025-05-11 13:19:42 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.6879
+INFO 2025-05-11 13:19:43 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.7233
+INFO 2025-05-11 13:21:56 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: 0.2568
+INFO 2025-05-11 13:21:57 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: 0.2849
+INFO 2025-05-11 13:21:57 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: 0.7068
+INFO 2025-05-11 13:23:41 recognition.py: 125] Updated best face recognition as: "Dawid" with certainty: 0.2984
+INFO 2025-05-11 13:23:42 recognition.py: 125] Updated best face recognition as: "Dawid" with certainty: 0.3076
+INFO 2025-05-11 13:23:42 recognition.py: 125] Updated best face recognition as: "Dawid" with certainty: 0.3708
+INFO 2025-05-11 13:23:59 recognition.py: 125] Updated best face recognition as: "Dawid" with certainty: 0.4403
+INFO 2025-05-11 13:24:47 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.0832
+INFO 2025-05-11 13:24:48 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.1626
+INFO 2025-05-11 13:24:49 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.3078
+INFO 2025-05-11 13:25:12 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.3194
+INFO 2025-05-11 13:26:02 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: 0.0853
+INFO 2025-05-11 13:26:06 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: 0.1692
+INFO 2025-05-11 13:26:06 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: 0.2420
+INFO 2025-05-11 13:27:12 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: -0.0166
+INFO 2025-05-11 13:27:13 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.0190
+INFO 2025-05-11 13:27:13 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: 0.0657
+INFO 2025-05-11 13:27:14 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: 0.0806
+INFO 2025-05-11 13:27:14 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: 0.0954
+INFO 2025-05-11 13:27:16 recognition.py: 125] Updated best face recognition as: "Dawid" with certainty: 0.1214
+INFO 2025-05-11 13:27:17 recognition.py: 125] Updated best face recognition as: "Dawid" with certainty: 0.1263
+INFO 2025-05-11 13:27:18 recognition.py: 125] Updated best face recognition as: "Dawid" with certainty: 0.1787
+INFO 2025-05-11 13:36:21 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 13:36:21 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-11 13:36:21 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 13:36:21 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-11 13:36:21 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 13:36:21 FaceRecModelLoader.py: 33] Successfully loaded the face recognition model!
+INFO 2025-05-11 13:36:21 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 13:36:22 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-11 13:36:22 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 13:36:22 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-11 13:36:22 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 13:36:22 FaceRecModelLoader.py: 33] Successfully loaded the face recognition model!
+INFO 2025-05-11 13:36:44 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.2469
+INFO 2025-05-11 13:36:44 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.3572
+INFO 2025-05-11 13:36:45 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.3955
+INFO 2025-05-11 13:36:45 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.4960
+INFO 2025-05-11 13:36:46 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.6751
+INFO 2025-05-11 13:36:46 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.6945
+INFO 2025-05-11 13:36:48 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.7015
+INFO 2025-05-11 13:36:48 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.7337
+INFO 2025-05-11 13:36:49 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.7590
+INFO 2025-05-11 13:36:50 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.8103
+INFO 2025-05-11 13:36:50 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.8296
+INFO 2025-05-11 13:36:52 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.8359
+INFO 2025-05-11 13:36:52 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.8408
+INFO 2025-05-11 13:36:53 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.8441
+INFO 2025-05-11 13:36:59 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.8495
+INFO 2025-05-11 13:37:43 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: 0.4609
+INFO 2025-05-11 13:37:44 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: 0.6878
+INFO 2025-05-11 13:37:44 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: 0.7179
+INFO 2025-05-11 13:37:45 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: 0.7608
+INFO 2025-05-11 13:37:45 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: 0.7885
+INFO 2025-05-11 13:39:16 recognition.py: 125] Updated best face recognition as: "Dawid" with certainty: 0.4821
+INFO 2025-05-11 13:39:16 recognition.py: 125] Updated best face recognition as: "Dawid" with certainty: 0.6997
+INFO 2025-05-11 13:39:17 recognition.py: 125] Updated best face recognition as: "Dawid" with certainty: 0.7340
+INFO 2025-05-11 13:39:17 recognition.py: 125] Updated best face recognition as: "Dawid" with certainty: 0.7416
+INFO 2025-05-11 13:39:17 recognition.py: 125] Updated best face recognition as: "Dawid" with certainty: 0.7417
+INFO 2025-05-11 13:40:19 recognition.py: 125] Updated best face recognition as: "Dawid" with certainty: 0.4821
+INFO 2025-05-11 13:40:19 recognition.py: 125] Updated best face recognition as: "Dawid" with certainty: 0.6997
+INFO 2025-05-11 13:40:20 recognition.py: 125] Updated best face recognition as: "Dawid" with certainty: 0.7340
+INFO 2025-05-11 13:40:20 recognition.py: 125] Updated best face recognition as: "Dawid" with certainty: 0.7416
+INFO 2025-05-11 13:40:21 recognition.py: 125] Updated best face recognition as: "Dawid" with certainty: 0.7417
+INFO 2025-05-11 13:41:44 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: 0.4851
+INFO 2025-05-11 13:41:44 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: 0.7189
+INFO 2025-05-11 13:41:44 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: 0.8045
+INFO 2025-05-11 13:41:45 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: 0.8260
+INFO 2025-05-11 13:41:45 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: 0.8750
+INFO 2025-05-11 13:41:46 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: 0.8977
+INFO 2025-05-11 13:42:47 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: -0.0166
+INFO 2025-05-11 13:42:47 recognition.py: 125] Updated best face recognition as: "Julia" with certainty: 0.0190
+INFO 2025-05-11 13:42:48 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: 0.0657
+INFO 2025-05-11 13:42:48 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: 0.0806
+INFO 2025-05-11 13:42:49 recognition.py: 125] Updated best face recognition as: "Czarek" with certainty: 0.0954
+INFO 2025-05-11 13:42:50 recognition.py: 125] Updated best face recognition as: "Dawid" with certainty: 0.1214
+INFO 2025-05-11 13:42:51 recognition.py: 125] Updated best face recognition as: "Dawid" with certainty: 0.1263
+INFO 2025-05-11 13:42:53 recognition.py: 125] Updated best face recognition as: "Dawid" with certainty: 0.1787
+INFO 2025-05-11 13:49:47 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 13:49:48 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-11 13:49:48 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 13:49:48 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-11 13:49:48 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 13:49:48 FaceRecModelLoader.py: 33] Successfully loaded the face recognition model!
+INFO 2025-05-11 13:49:48 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 13:49:48 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-11 13:49:48 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 13:49:49 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-11 13:49:49 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 13:49:49 FaceRecModelLoader.py: 33] Successfully loaded the face recognition model!
+INFO 2025-05-11 13:50:15 recognition.py: 133] Updated best face recognition as: "Julia" with certainty: 0.2714
+INFO 2025-05-11 13:50:16 recognition.py: 133] Updated best face recognition as: "Julia" with certainty: 0.4199
+INFO 2025-05-11 13:50:16 recognition.py: 133] Updated best face recognition as: "Julia" with certainty: 0.4379
+INFO 2025-05-11 13:50:17 recognition.py: 133] Updated best face recognition as: "Julia" with certainty: 0.6339
+INFO 2025-05-11 13:50:17 recognition.py: 133] Updated best face recognition as: "Julia" with certainty: 0.6693
+INFO 2025-05-11 13:50:18 recognition.py: 133] Updated best face recognition as: "Julia" with certainty: 0.6937
+INFO 2025-05-11 13:50:19 recognition.py: 133] Updated best face recognition as: "Julia" with certainty: 0.7214
+INFO 2025-05-11 13:50:20 recognition.py: 133] Updated best face recognition as: "Julia" with certainty: 0.7321
+INFO 2025-05-11 13:50:21 recognition.py: 133] Updated best face recognition as: "Julia" with certainty: 0.7959
+INFO 2025-05-11 13:50:22 recognition.py: 133] Updated best face recognition as: "Julia" with certainty: 0.8407
+INFO 2025-05-11 13:50:22 recognition.py: 133] Updated best face recognition as: "Julia" with certainty: 0.8754
+INFO 2025-05-11 13:50:23 recognition.py: 133] Updated best face recognition as: "Julia" with certainty: 0.9234
+INFO 2025-05-11 13:50:24 recognition.py: 133] Updated best face recognition as: "Julia" with certainty: 0.9461
+INFO 2025-05-11 13:50:48 recognition.py: 146] Mean of best scores for each frame: 0.7499
+INFO 2025-05-11 21:13:00 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 21:13:00 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-11 21:13:00 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 21:13:00 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-11 21:13:00 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 21:13:01 FaceRecModelLoader.py: 33] Successfully loaded the face recognition model!
+INFO 2025-05-11 21:13:01 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 21:13:01 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-11 21:13:01 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 21:13:01 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-11 21:13:01 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 21:13:01 FaceRecModelLoader.py: 33] Successfully loaded the face recognition model!
+INFO 2025-05-11 21:13:32 recognition.py: 125] Updated best face recognition as: "Dawid" with certainty: 0.2984
+INFO 2025-05-11 21:13:33 recognition.py: 125] Updated best face recognition as: "Dawid" with certainty: 0.3076
+INFO 2025-05-11 21:13:33 recognition.py: 125] Updated best face recognition as: "Dawid" with certainty: 0.3708
+INFO 2025-05-11 21:13:50 recognition.py: 125] Updated best face recognition as: "Dawid" with certainty: 0.4403
+INFO 2025-05-11 21:32:01 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 21:32:02 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-11 21:32:02 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 21:32:02 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-11 21:32:02 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 21:32:02 FaceRecModelLoader.py: 33] Successfully loaded the face recognition model!
+INFO 2025-05-11 21:32:02 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 21:32:02 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-11 21:32:02 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 21:32:03 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-11 21:32:03 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 21:32:03 FaceRecModelLoader.py: 33] Successfully loaded the face recognition model!
+WARNING 2025-05-11 21:32:18 recognition.py: 151] No video file selected.
+INFO 2025-05-11 21:32:39 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 21:32:39 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-11 21:32:39 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 21:32:40 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-11 21:32:40 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 21:32:40 FaceRecModelLoader.py: 33] Successfully loaded the face recognition model!
+INFO 2025-05-11 21:32:40 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 21:32:40 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-11 21:32:40 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 21:32:40 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-11 21:32:40 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 21:32:41 FaceRecModelLoader.py: 33] Successfully loaded the face recognition model!
+WARNING 2025-05-11 21:33:19 recognition.py: 151] No video file selected.
+INFO 2025-05-11 21:33:52 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 21:33:53 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-11 21:33:53 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 21:33:53 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-11 21:33:53 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 21:33:53 FaceRecModelLoader.py: 33] Successfully loaded the face recognition model!
+INFO 2025-05-11 21:33:53 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 21:33:54 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-11 21:33:54 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 21:33:54 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-11 21:33:54 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 21:33:54 FaceRecModelLoader.py: 33] Successfully loaded the face recognition model!
+ERROR 2025-05-11 21:34:14 recognition.py: 99] Face detection failed:
+Traceback (most recent call last):
+  File "C:\Users\synek\Documents\GitHub\RIPOProjekt\recognition.py", line 97, in recognize
+    detections = face_det_handler.inference_on_image(frame)
+  File "C:\Users\synek\Documents\GitHub\RIPOProjekt\core\model_handler\face_detection\FaceDetModelHandler.py", line 48, in inference_on_image
+    raise e
+  File "C:\Users\synek\Documents\GitHub\RIPOProjekt\core\model_handler\face_detection\FaceDetModelHandler.py", line 46, in inference_on_image
+    image, scale = self._preprocess(image)
+  File "C:\Users\synek\Documents\GitHub\RIPOProjekt\core\model_handler\face_detection\FaceDetModelHandler.py", line 70, in _preprocess
+    img -= (104, 117, 123)
+ValueError: operands could not be broadcast together with shapes (681,612,4) (3,) (681,612,4) 
+INFO 2025-05-11 21:36:10 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 21:36:11 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-11 21:36:11 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 21:36:11 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-11 21:36:11 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 21:36:11 FaceRecModelLoader.py: 33] Successfully loaded the face recognition model!
+INFO 2025-05-11 21:36:11 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 21:36:12 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-11 21:36:12 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 21:36:12 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-11 21:36:12 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-11 21:36:12 FaceRecModelLoader.py: 33] Successfully loaded the face recognition model!
+INFO 2025-05-11 21:36:18 recognition.py: 125] Updated best face recognition as: "Dawid" with certainty: 0.2539
+INFO 2025-05-11 21:36:19 recognition.py: 125] Updated best face recognition as: "Dawid" with certainty: 0.2865
+INFO 2025-05-11 21:36:19 recognition.py: 125] Updated best face recognition as: "Dawid" with certainty: 0.2868
+INFO 2025-05-12 21:22:04 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-12 21:22:05 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-12 21:22:05 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-12 21:22:05 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-12 21:22:05 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-12 21:22:05 FaceRecModelLoader.py: 33] Successfully loaded the face recognition model!
+INFO 2025-05-12 21:22:06 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-12 21:22:06 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-12 21:22:06 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-12 21:22:06 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-12 21:22:06 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-12 21:22:06 FaceRecModelLoader.py: 33] Successfully loaded the face recognition model!
+INFO 2025-05-12 21:24:43 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-12 21:24:43 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-12 21:24:43 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-12 21:24:43 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-12 21:24:43 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+ERROR 2025-05-12 21:24:43 FaceRecModelLoader.py: 36] The model failed to load, please check the model path: models\face_recognition\face_recognition_1.0\face_recognition_mv.pkl!
+INFO 2025-05-12 21:25:29 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-12 21:25:29 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-12 21:25:29 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-12 21:25:29 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-12 21:25:29 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+ERROR 2025-05-12 21:25:29 FaceRecModelLoader.py: 36] The model failed to load, please check the model path: models\face_recognition\face_recognition_1.0\face_recognition_mv.pkl!
+INFO 2025-05-12 21:26:54 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-12 21:26:54 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-12 21:26:54 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-12 21:26:55 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-12 21:26:55 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-12 21:26:55 FaceRecModelLoader.py: 46] Successfully loaded the face recognition model!
+INFO 2025-05-12 21:35:58 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-12 21:35:58 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-12 21:35:58 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-12 21:35:58 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-12 21:35:58 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-12 21:35:59 FaceRecModelLoader.py: 49] Successfully loaded the face recognition model!
+INFO 2025-05-12 21:37:42 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-12 21:37:42 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-12 21:37:42 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-12 21:37:42 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-12 21:37:42 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-12 21:40:12 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-12 21:40:12 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-12 21:40:12 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-12 21:40:12 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-12 21:40:12 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-12 21:40:12 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-12 21:40:12 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-12 21:40:13 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-12 21:40:13 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-12 21:40:13 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-12 21:40:13 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-12 21:40:13 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-12 21:41:27 recognition.py: 131] Updated best face recognition as: "Dawid" with certainty: 0.2985
+INFO 2025-05-12 21:41:27 recognition.py: 131] Updated best face recognition as: "Dawid" with certainty: 0.3076
+INFO 2025-05-12 21:41:27 recognition.py: 131] Updated best face recognition as: "Dawid" with certainty: 0.3709
+INFO 2025-05-12 21:41:41 recognition.py: 131] Updated best face recognition as: "Dawid" with certainty: 0.4403
+INFO 2025-05-12 21:41:53 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-12 21:41:53 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-12 21:41:53 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-12 21:41:53 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-12 21:41:53 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-12 21:41:54 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-12 21:41:54 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-12 21:41:54 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-12 21:41:54 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-12 21:41:54 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-12 21:41:54 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-12 21:41:54 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-12 21:45:24 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-12 21:45:24 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-12 21:45:24 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-12 21:45:25 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-12 21:45:25 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-12 21:45:25 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-12 21:45:25 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-12 21:45:25 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-12 21:45:25 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-12 21:45:25 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-12 21:45:25 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-12 21:45:26 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-12 21:45:51 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-12 21:45:52 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-12 21:45:52 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-12 21:45:52 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-12 21:45:52 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-12 21:45:52 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-12 21:45:52 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-12 21:45:52 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-12 21:45:52 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-12 21:45:53 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-12 21:45:53 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-12 21:45:53 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-12 21:46:39 recognition.py: 131] Updated best face recognition as: "Czarek" with certainty: 0.3184
+INFO 2025-05-12 21:46:39 recognition.py: 131] Updated best face recognition as: "Czarek" with certainty: 0.3860
+INFO 2025-05-12 21:46:40 recognition.py: 131] Updated best face recognition as: "Czarek" with certainty: 0.5334
+INFO 2025-05-12 21:46:40 recognition.py: 131] Updated best face recognition as: "Czarek" with certainty: 0.6807
+INFO 2025-05-12 21:47:39 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-12 21:47:39 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-12 21:47:39 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-12 21:47:40 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-12 21:47:40 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-12 21:47:40 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-12 21:47:40 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-12 21:47:40 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-12 21:47:40 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-12 21:47:40 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-12 21:47:40 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-12 21:47:41 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-12 21:48:39 recognition.py: 131] Updated best face recognition as: "Czarek" with certainty: 0.4609
+INFO 2025-05-12 21:48:39 recognition.py: 131] Updated best face recognition as: "Czarek" with certainty: 0.6878
+INFO 2025-05-12 21:48:40 recognition.py: 131] Updated best face recognition as: "Czarek" with certainty: 0.7179
+INFO 2025-05-12 21:48:40 recognition.py: 131] Updated best face recognition as: "Czarek" with certainty: 0.7608
+INFO 2025-05-12 21:48:41 recognition.py: 131] Updated best face recognition as: "Czarek" with certainty: 0.7885
+INFO 2025-05-13 16:50:41 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 16:50:41 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 16:50:41 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 16:50:42 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 16:50:42 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 16:50:42 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 16:50:42 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 16:50:42 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 16:50:42 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 16:50:43 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 16:50:43 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 16:50:43 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 16:51:45 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.4940
+WARNING 2025-05-13 16:52:37 recognition.py: 163] No video file selected.
+INFO 2025-05-13 16:52:39 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.4511
+INFO 2025-05-13 16:52:39 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.4579
+INFO 2025-05-13 16:52:40 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.4798
+INFO 2025-05-13 16:52:43 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.4856
+INFO 2025-05-13 16:52:44 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.4947
+INFO 2025-05-13 16:52:47 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.5028
+INFO 2025-05-13 16:52:48 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.5028
+INFO 2025-05-13 16:52:48 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.5135
+INFO 2025-05-13 16:52:49 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.5168
+INFO 2025-05-13 16:52:51 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.5307
+INFO 2025-05-13 16:52:52 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.5490
+INFO 2025-05-13 17:10:41 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 17:10:41 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 17:10:41 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 17:10:42 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 17:10:42 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 17:10:42 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 17:10:42 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 17:10:42 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 17:10:42 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 17:10:42 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 17:10:42 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 17:10:43 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 17:11:48 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 17:11:48 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 17:11:48 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 17:11:48 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 17:11:48 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 17:11:49 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 17:11:49 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 17:11:49 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 17:11:49 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 17:11:49 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 17:11:49 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 17:11:49 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 17:17:09 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 17:17:09 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 17:17:09 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 17:17:09 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 17:17:09 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 17:17:10 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 17:17:10 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 17:17:10 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 17:17:10 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 17:17:10 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 17:17:10 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 17:17:10 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 17:24:37 detection.py: 123] Saved face feature for: "test" with confidence: 1.0000
+INFO 2025-05-13 17:25:30 detection.py: 123] Saved face feature for: "test" with confidence: 0.9935
+INFO 2025-05-13 17:25:38 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.3437
+INFO 2025-05-13 17:25:38 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.4699
+INFO 2025-05-13 17:25:42 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.5072
+INFO 2025-05-13 17:25:42 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.5181
+INFO 2025-05-13 17:25:42 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.5343
+INFO 2025-05-13 17:25:50 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.5366
+INFO 2025-05-13 17:25:58 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.5505
+INFO 2025-05-13 17:26:10 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.5530
+INFO 2025-05-13 17:26:13 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.5563
+INFO 2025-05-13 17:26:13 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.5674
+INFO 2025-05-13 17:38:29 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 17:38:29 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 17:38:29 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 17:38:29 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 17:38:29 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 17:38:30 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 17:38:30 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 17:38:30 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 17:38:30 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 17:38:30 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 17:38:30 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 17:38:30 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 17:38:44 recognition.py: 136] Updated best face recognition as: "Julia" with certainty: 0.3763
+INFO 2025-05-13 17:38:44 recognition.py: 136] Updated best face recognition as: "Dawid" with certainty: 0.3771
+INFO 2025-05-13 17:39:06 recognition.py: 136] Updated best face recognition as: "test" with certainty: 0.5461
+INFO 2025-05-13 17:39:06 recognition.py: 136] Updated best face recognition as: "test" with certainty: 0.6170
+INFO 2025-05-13 17:39:06 recognition.py: 136] Updated best face recognition as: "test" with certainty: 0.6396
+INFO 2025-05-13 17:39:07 recognition.py: 136] Updated best face recognition as: "test" with certainty: 0.6626
+INFO 2025-05-13 17:39:55 recognition.py: 136] Updated best face recognition as: "Czarek" with certainty: 0.6727
+INFO 2025-05-13 17:39:59 recognition.py: 136] Updated best face recognition as: "Czarek" with certainty: 0.6968
+INFO 2025-05-13 17:39:59 recognition.py: 136] Updated best face recognition as: "Czarek" with certainty: 0.7081
+INFO 2025-05-13 17:39:59 recognition.py: 136] Updated best face recognition as: "Czarek" with certainty: 0.7092
+INFO 2025-05-13 17:40:33 recognition.py: 136] Updated best face recognition as: "test" with certainty: 0.3853
+INFO 2025-05-13 17:40:33 recognition.py: 136] Updated best face recognition as: "Czarek" with certainty: 0.6715
+INFO 2025-05-13 17:40:34 recognition.py: 136] Updated best face recognition as: "Czarek" with certainty: 0.7346
+INFO 2025-05-13 17:40:34 recognition.py: 136] Updated best face recognition as: "Czarek" with certainty: 0.8075
+INFO 2025-05-13 17:40:34 recognition.py: 136] Updated best face recognition as: "Czarek" with certainty: 0.8480
+INFO 2025-05-13 17:47:13 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 17:47:13 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 17:47:13 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 17:47:13 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 17:47:13 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 17:47:14 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 17:47:14 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 17:47:14 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 17:47:14 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 17:47:14 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 17:47:14 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 17:47:14 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 17:47:38 detection.py: 123] Saved face feature for: "bck" with confidence: 0.9998
+INFO 2025-05-13 17:47:43 recognition.py: 136] Updated best face recognition as: "bck" with certainty: 0.8217
+INFO 2025-05-13 17:47:44 recognition.py: 136] Updated best face recognition as: "bck" with certainty: 0.8316
+INFO 2025-05-13 17:47:46 recognition.py: 136] Updated best face recognition as: "bck" with certainty: 0.8568
+INFO 2025-05-13 17:47:47 recognition.py: 136] Updated best face recognition as: "bck" with certainty: 0.8665
+INFO 2025-05-13 17:47:47 recognition.py: 136] Updated best face recognition as: "bck" with certainty: 0.8721
+INFO 2025-05-13 17:47:49 recognition.py: 136] Updated best face recognition as: "bck" with certainty: 0.8758
+INFO 2025-05-13 17:47:49 recognition.py: 136] Updated best face recognition as: "bck" with certainty: 0.8797
+INFO 2025-05-13 17:47:55 recognition.py: 136] Updated best face recognition as: "bck" with certainty: 0.8799
+INFO 2025-05-13 17:47:55 recognition.py: 136] Updated best face recognition as: "bck" with certainty: 0.8825
+INFO 2025-05-13 17:47:55 recognition.py: 136] Updated best face recognition as: "bck" with certainty: 0.8857
+INFO 2025-05-13 17:47:55 recognition.py: 136] Updated best face recognition as: "bck" with certainty: 0.8863
+INFO 2025-05-13 17:47:55 recognition.py: 136] Updated best face recognition as: "bck" with certainty: 0.8913
+INFO 2025-05-13 17:47:56 recognition.py: 136] Updated best face recognition as: "bck" with certainty: 0.9139
+INFO 2025-05-13 17:47:56 recognition.py: 136] Updated best face recognition as: "bck" with certainty: 0.9218
+INFO 2025-05-13 17:47:56 recognition.py: 136] Updated best face recognition as: "bck" with certainty: 0.9220
+INFO 2025-05-13 17:47:57 recognition.py: 136] Updated best face recognition as: "bck" with certainty: 0.9281
+INFO 2025-05-13 17:47:57 recognition.py: 136] Updated best face recognition as: "bck" with certainty: 0.9339
+INFO 2025-05-13 17:47:57 recognition.py: 136] Updated best face recognition as: "bck" with certainty: 0.9380
+INFO 2025-05-13 17:47:57 recognition.py: 136] Updated best face recognition as: "bck" with certainty: 0.9404
+INFO 2025-05-13 17:47:57 recognition.py: 136] Updated best face recognition as: "bck" with certainty: 0.9672
+INFO 2025-05-13 17:47:57 recognition.py: 136] Updated best face recognition as: "bck" with certainty: 0.9744
+INFO 2025-05-13 17:47:57 recognition.py: 136] Updated best face recognition as: "bck" with certainty: 0.9866
+INFO 2025-05-13 17:47:58 recognition.py: 136] Updated best face recognition as: "bck" with certainty: 0.9875
+INFO 2025-05-13 17:47:58 recognition.py: 136] Updated best face recognition as: "bck" with certainty: 1.0000
+INFO 2025-05-13 18:12:05 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:12:05 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 18:12:05 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:12:05 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 18:12:05 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:12:05 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 18:12:05 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:12:06 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 18:12:06 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:12:06 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 18:12:06 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:12:06 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 18:12:19 recognition.py: 136] Updated best face recognition as: "test" with certainty: 0.4600
+INFO 2025-05-13 18:12:25 recognition.py: 136] Updated best face recognition as: "test" with certainty: 0.4828
+INFO 2025-05-13 18:12:26 recognition.py: 136] Updated best face recognition as: "test" with certainty: 0.5026
+INFO 2025-05-13 18:12:30 recognition.py: 136] Updated best face recognition as: "test" with certainty: 0.5162
+INFO 2025-05-13 18:12:31 recognition.py: 136] Updated best face recognition as: "test" with certainty: 0.5198
+INFO 2025-05-13 18:15:12 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:15:12 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 18:15:12 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:15:13 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 18:15:13 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:15:13 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 18:15:13 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:15:13 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 18:15:13 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:15:13 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 18:15:13 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:15:14 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 18:17:54 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:17:54 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 18:17:55 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:17:55 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 18:17:55 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:17:55 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 18:17:55 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:17:55 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 18:17:55 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:17:56 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 18:17:56 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:17:56 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 18:20:13 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:20:13 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 18:20:13 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:20:13 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 18:20:13 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:20:14 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 18:20:14 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:20:14 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 18:20:14 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:20:14 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 18:20:14 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:20:14 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 18:20:59 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:20:59 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 18:20:59 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:21:00 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 18:21:00 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:21:00 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 18:21:00 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:21:00 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 18:21:00 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:21:00 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 18:21:00 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:21:01 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 18:21:20 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:21:20 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 18:21:20 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:21:20 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 18:21:20 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:21:21 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 18:21:21 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:21:21 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 18:21:21 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:21:21 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 18:21:21 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:21:21 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 18:21:56 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:21:56 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 18:21:56 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:21:56 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 18:21:56 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:21:56 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 18:21:56 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:21:57 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 18:21:57 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:21:57 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 18:21:57 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:21:57 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 18:22:12 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:22:12 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 18:22:12 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:22:13 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 18:22:13 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:22:13 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 18:22:13 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:22:13 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 18:22:13 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:22:13 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 18:22:13 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:22:14 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 18:22:29 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:22:29 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 18:22:29 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:22:29 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 18:22:29 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:22:29 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 18:22:29 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:22:30 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 18:22:30 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:22:30 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 18:22:30 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:22:30 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 18:23:20 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:23:20 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 18:23:20 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:23:21 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 18:23:21 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:23:21 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 18:23:21 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:23:21 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 18:23:21 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:23:21 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 18:23:21 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:23:22 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 18:23:57 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:23:57 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 18:23:57 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:23:57 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 18:23:57 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:23:58 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 18:23:58 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:23:58 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 18:23:58 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:23:58 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 18:23:58 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:23:58 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 18:25:07 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:25:07 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 18:25:07 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:25:08 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 18:25:08 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:25:08 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 18:25:08 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:25:08 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 18:25:08 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:25:08 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 18:25:08 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:25:09 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 18:25:53 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:25:54 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 18:25:54 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:25:54 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 18:25:54 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:25:54 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 18:25:54 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:25:54 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 18:25:54 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:25:55 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 18:25:55 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:25:55 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 18:26:42 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:26:42 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 18:26:42 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:26:42 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 18:26:42 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:26:43 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 18:26:43 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:26:43 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 18:26:43 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:26:43 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 18:26:43 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:26:43 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 18:27:06 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:27:06 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 18:27:06 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:27:07 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 18:27:07 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:27:07 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 18:27:07 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:27:07 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 18:27:07 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:27:08 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 18:27:08 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:27:08 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 18:27:33 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:27:34 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 18:27:34 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:27:34 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 18:27:34 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:27:34 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 18:27:34 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:27:34 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 18:27:34 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:27:35 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 18:27:35 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:27:35 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 18:27:55 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:27:56 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 18:27:56 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:27:56 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 18:27:56 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:27:56 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 18:27:56 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:27:56 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 18:27:56 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:27:57 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 18:27:57 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:27:57 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 18:28:55 recognition.py: 136] Updated best face recognition as: "bck" with certainty: 0.8217
+INFO 2025-05-13 18:28:55 recognition.py: 136] Updated best face recognition as: "bck" with certainty: 0.8316
+INFO 2025-05-13 18:28:58 recognition.py: 136] Updated best face recognition as: "bck" with certainty: 0.8568
+INFO 2025-05-13 18:28:59 recognition.py: 136] Updated best face recognition as: "bck" with certainty: 0.8665
+INFO 2025-05-13 18:28:59 recognition.py: 136] Updated best face recognition as: "bck" with certainty: 0.8721
+INFO 2025-05-13 18:29:01 recognition.py: 136] Updated best face recognition as: "bck" with certainty: 0.8758
+INFO 2025-05-13 18:29:01 recognition.py: 136] Updated best face recognition as: "bck" with certainty: 0.8797
+INFO 2025-05-13 18:29:07 recognition.py: 136] Updated best face recognition as: "bck" with certainty: 0.8799
+INFO 2025-05-13 18:29:07 recognition.py: 136] Updated best face recognition as: "bck" with certainty: 0.8825
+INFO 2025-05-13 18:33:23 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:33:23 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 18:33:23 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:33:23 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 18:33:23 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:33:23 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 18:33:24 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:33:24 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 18:33:24 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:33:24 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 18:33:24 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:33:24 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 18:34:19 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:34:19 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 18:34:19 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:34:19 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 18:34:19 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:34:20 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 18:34:20 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:34:20 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 18:34:20 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:34:20 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 18:34:20 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:34:20 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+WARNING 2025-05-13 18:34:42 recognition.py: 169] No video file selected.
+INFO 2025-05-13 18:34:48 recognition.py: 134] Updated best face recognition as: "bck" with certainty: 0.8217
+INFO 2025-05-13 18:34:48 recognition.py: 134] Updated best face recognition as: "bck" with certainty: 0.8316
+INFO 2025-05-13 18:34:51 recognition.py: 134] Updated best face recognition as: "bck" with certainty: 0.8568
+INFO 2025-05-13 18:34:52 recognition.py: 134] Updated best face recognition as: "bck" with certainty: 0.8665
+INFO 2025-05-13 18:34:52 recognition.py: 134] Updated best face recognition as: "bck" with certainty: 0.8721
+INFO 2025-05-13 18:35:13 recognition.py: 134] Updated best face recognition as: "bck" with certainty: 0.8217
+INFO 2025-05-13 18:35:14 recognition.py: 134] Updated best face recognition as: "bck" with certainty: 0.8316
+INFO 2025-05-13 18:35:16 recognition.py: 134] Updated best face recognition as: "bck" with certainty: 0.8568
+INFO 2025-05-13 18:35:16 recognition.py: 134] Updated best face recognition as: "bck" with certainty: 0.8665
+INFO 2025-05-13 18:35:16 recognition.py: 134] Updated best face recognition as: "bck" with certainty: 0.8721
+INFO 2025-05-13 18:35:30 recognition.py: 134] Updated best face recognition as: "bck" with certainty: 0.8217
+INFO 2025-05-13 18:35:31 recognition.py: 134] Updated best face recognition as: "bck" with certainty: 0.8316
+INFO 2025-05-13 18:35:51 recognition.py: 134] Updated best face recognition as: "bck" with certainty: 0.8217
+INFO 2025-05-13 18:35:51 recognition.py: 134] Updated best face recognition as: "bck" with certainty: 0.8316
+INFO 2025-05-13 18:36:08 recognition.py: 134] Updated best face recognition as: "bck" with certainty: 0.8217
+INFO 2025-05-13 18:36:08 recognition.py: 134] Updated best face recognition as: "bck" with certainty: 0.8316
+INFO 2025-05-13 18:36:11 recognition.py: 134] Updated best face recognition as: "bck" with certainty: 0.8568
+INFO 2025-05-13 18:36:11 recognition.py: 134] Updated best face recognition as: "bck" with certainty: 0.8665
+INFO 2025-05-13 18:36:11 recognition.py: 134] Updated best face recognition as: "bck" with certainty: 0.8721
+INFO 2025-05-13 18:36:27 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:36:27 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 18:36:27 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:36:28 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 18:36:28 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:36:28 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 18:36:28 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:36:28 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 18:36:28 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:36:28 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 18:36:28 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:36:28 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 18:36:37 recognition.py: 134] Updated best face recognition as: "bck" with certainty: 0.8217
+INFO 2025-05-13 18:36:37 recognition.py: 134] Updated best face recognition as: "bck" with certainty: 0.8315
+INFO 2025-05-13 18:36:41 recognition.py: 134] Updated best face recognition as: "bck" with certainty: 0.8568
+INFO 2025-05-13 18:39:08 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:39:08 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 18:39:08 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:39:09 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 18:39:09 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:39:09 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 18:39:09 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:39:09 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 18:39:09 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:39:09 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 18:39:09 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:39:10 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 18:41:02 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:41:02 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 18:41:02 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:41:03 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 18:41:03 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:41:03 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 18:41:03 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:41:03 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 18:41:03 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:41:03 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 18:41:03 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 18:41:04 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!

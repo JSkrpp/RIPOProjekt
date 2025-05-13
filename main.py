@@ -20,12 +20,12 @@ def main():
     root.geometry(f'{window_width}x{window_height}+{position_right}+{position_top}')
 
     style = ttk.Style()
-    style.configure("TButton", font=("Arial", 12), padding=10)
+    style.configure("TButton", font=("Segoe UI", 12), padding=10)
 
     frame = tk.Frame(root, bg="#f0f0f0")
     frame.pack(side=tk.TOP, padx=20, pady=20, expand=True)
 
-    lbl_title = tk.Label(frame, text="RiPO", font=("Arial", 16, "bold"), bg="#f0f0f0")
+    lbl_title = tk.Label(frame, text="RiPO", font=("Segoe UI", 16, "bold"), bg="#f0f0f0")
     lbl_title.pack(pady=15)
 
     btn_train = ttk.Button(frame, text="Dodaj wzorzec", command=lambda: gui.detect_page(root))

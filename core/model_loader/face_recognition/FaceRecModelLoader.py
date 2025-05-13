@@ -4,6 +4,9 @@
 @contact: jun21wangustc@gmail.com 
 """
 import logging.config
+
+import yaml
+
 logging.config.fileConfig("config/logging.conf")
 logger = logging.getLogger('sdk')
 
@@ -18,10 +21,17 @@ class FaceRecModelLoader(BaseModelLoader):
         super().__init__(model_path, model_category, model_name, meta_file)
         self.cfg['mean'] = self.meta_conf['mean']
         self.cfg['std'] = self.meta_conf['std']
-        
+
     def load_model(self):
+        with open('config/app_conf.yaml') as f:
+            app_conf = yaml.load(f, Loader=yaml.SafeLoader)
+
+        device = app_conf['core']['device']
         try:
-            model = torch.load(self.cfg['model_file_path'])
+            model = torch.load(self.cfg['model_file_path'], map_location=device)
+            if isinstance(model, torch.nn.DataParallel):
+                model = model.module
+            model.eval()
         except Exception as e:
             logger.error('The model failed to load, please check the model path: %s!'
                          % self.cfg['model_file_path'])
@@ -29,3 +39,4 @@ class FaceRecModelLoader(BaseModelLoader):
         else:
             logger.info('Successfully loaded the face recognition model!')
             return model, self.cfg
+

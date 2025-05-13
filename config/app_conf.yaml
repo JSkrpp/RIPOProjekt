@@ -1,20 +1,30 @@
+core:
+  device: cuda
 detection:
   box_color:
   - 255
   - 0
-  - 255
+  - 0
   box_thickness: 2
   draw_boxes: true
+  font_color:
+  - 255
+  - 0
+  - 0
+  font_scale: 0.6
+  show_best: true
+  show_score: true
 recognition:
   box_color:
   - 255
   - 0
-  - 128
+  - 0
   box_thickness: 2
   draw_boxes: true
   font_color:
-  - 0
-  - 0
   - 255
+  - 0
+  - 0
   font_scale: 0.6
+  show_best: true
   show_score: true
