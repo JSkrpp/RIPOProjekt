@@ -847,3 +847,668 @@ INFO 2025-05-13 18:41:03 BaseModelLoader.py: 34] Successfully parsed the model c
 INFO 2025-05-13 18:41:03 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
 INFO 2025-05-13 18:41:03 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
 INFO 2025-05-13 18:41:04 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 22:07:56 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 22:07:56 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 22:07:56 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 22:07:56 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 22:07:56 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 22:07:57 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 22:07:57 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 22:07:57 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 22:07:57 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 22:07:57 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 22:07:57 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 22:07:57 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 22:08:28 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 22:08:29 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 22:08:29 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 22:08:29 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 22:08:29 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 22:08:29 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 22:08:30 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 22:08:30 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 22:08:30 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 22:08:30 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 22:08:30 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 22:08:30 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 22:09:33 detection.py: 124] Saved face feature for: "Dawid" with confidence: 0.9999
+INFO 2025-05-13 22:09:59 detection.py: 124] Saved face feature for: "Czarek" with confidence: 0.9996
+INFO 2025-05-13 22:10:22 detection.py: 124] Saved face feature for: "Julia" with confidence: 0.9998
+INFO 2025-05-13 22:10:44 detection.py: 124] Saved face feature for: "Czarek" with confidence: 0.9995
+WARNING 2025-05-13 22:11:02 detection.py: 152] No video file selected.
+INFO 2025-05-13 22:11:17 detection.py: 124] Saved face feature for: "Dawid" with confidence: 0.9999
+INFO 2025-05-13 22:11:39 detection.py: 124] Saved face feature for: "Julia" with confidence: 1.0000
+INFO 2025-05-13 22:11:49 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.5772
+INFO 2025-05-13 22:11:49 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.6822
+INFO 2025-05-13 22:11:50 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.7923
+INFO 2025-05-13 22:11:50 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.8106
+INFO 2025-05-13 22:11:50 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.8646
+INFO 2025-05-13 22:11:51 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 1.0000
+INFO 2025-05-13 22:13:42 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.9599
+INFO 2025-05-13 22:13:42 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.9610
+INFO 2025-05-13 22:13:43 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.9672
+INFO 2025-05-13 22:13:43 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.9691
+INFO 2025-05-13 22:13:43 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.9714
+INFO 2025-05-13 22:13:44 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.9721
+INFO 2025-05-13 22:13:45 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.9726
+INFO 2025-05-13 22:13:47 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.9737
+INFO 2025-05-13 22:13:47 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.9760
+INFO 2025-05-13 22:13:48 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.9809
+INFO 2025-05-13 22:13:48 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 1.0000
+INFO 2025-05-13 22:14:16 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.9477
+INFO 2025-05-13 22:14:18 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.9516
+INFO 2025-05-13 22:14:18 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.9561
+INFO 2025-05-13 22:14:18 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.9625
+INFO 2025-05-13 22:14:21 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.9685
+INFO 2025-05-13 22:14:21 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.9736
+INFO 2025-05-13 22:14:22 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.9750
+INFO 2025-05-13 22:14:22 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.9771
+INFO 2025-05-13 22:14:23 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.9778
+INFO 2025-05-13 22:14:23 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.9788
+INFO 2025-05-13 22:14:24 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.9814
+INFO 2025-05-13 22:14:24 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.9830
+INFO 2025-05-13 22:14:24 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.9872
+INFO 2025-05-13 22:14:24 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.9876
+INFO 2025-05-13 22:14:24 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.9893
+INFO 2025-05-13 22:14:25 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 1.0000
+INFO 2025-05-13 22:14:45 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.9709
+INFO 2025-05-13 22:15:44 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.4595
+INFO 2025-05-13 22:15:44 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.6526
+INFO 2025-05-13 22:15:44 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.7100
+INFO 2025-05-13 22:15:45 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.8033
+INFO 2025-05-13 22:15:45 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.8861
+INFO 2025-05-13 22:15:51 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.9210
+INFO 2025-05-13 22:16:30 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.9218
+INFO 2025-05-13 22:16:30 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.9518
+INFO 2025-05-13 22:16:31 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.9605
+INFO 2025-05-13 22:16:31 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.9637
+INFO 2025-05-13 22:16:34 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.9637
+INFO 2025-05-13 22:16:39 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.9666
+INFO 2025-05-13 22:19:54 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.3437
+INFO 2025-05-13 22:19:54 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.3544
+INFO 2025-05-13 22:19:54 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.3645
+INFO 2025-05-13 22:19:55 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.3775
+INFO 2025-05-13 22:19:55 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.3815
+INFO 2025-05-13 22:19:55 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.3990
+INFO 2025-05-13 22:20:00 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.4177
+INFO 2025-05-13 22:20:11 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.4274
+INFO 2025-05-13 22:20:41 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.8840
+INFO 2025-05-13 22:20:41 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.8955
+INFO 2025-05-13 22:20:43 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.8955
+INFO 2025-05-13 22:20:43 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.8992
+INFO 2025-05-13 22:20:43 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.9021
+INFO 2025-05-13 22:20:45 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.9022
+INFO 2025-05-13 22:20:45 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.9033
+INFO 2025-05-13 22:21:29 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.4752
+INFO 2025-05-13 22:21:30 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.5047
+WARNING 2025-05-13 22:22:27 recognition.py: 169] No video file selected.
+INFO 2025-05-13 22:22:36 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.1317
+INFO 2025-05-13 22:22:36 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.1384
+INFO 2025-05-13 22:22:37 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.1482
+INFO 2025-05-13 22:22:37 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.1823
+INFO 2025-05-13 22:22:40 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.1878
+INFO 2025-05-13 22:22:40 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.1892
+INFO 2025-05-13 22:23:52 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.1739
+INFO 2025-05-13 22:23:52 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.1963
+INFO 2025-05-13 22:23:52 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.1975
+INFO 2025-05-13 22:23:53 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.3005
+INFO 2025-05-13 22:23:53 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.3158
+INFO 2025-05-13 22:23:54 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.3384
+INFO 2025-05-13 22:23:54 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.3628
+INFO 2025-05-13 22:24:28 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.4342
+INFO 2025-05-13 22:24:29 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.4982
+INFO 2025-05-13 22:24:29 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.5082
+INFO 2025-05-13 22:24:29 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.5570
+INFO 2025-05-13 22:24:33 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.5819
+INFO 2025-05-13 22:25:28 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.1961
+INFO 2025-05-13 22:25:28 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.2059
+INFO 2025-05-13 22:25:30 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.2079
+INFO 2025-05-13 22:25:30 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.2105
+INFO 2025-05-13 22:25:32 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.2596
+INFO 2025-05-13 22:25:33 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.3583
+INFO 2025-05-13 22:26:47 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.2649
+INFO 2025-05-13 22:26:47 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.2859
+INFO 2025-05-13 22:26:56 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.2877
+INFO 2025-05-13 22:26:56 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.2883
+INFO 2025-05-13 22:26:57 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.3110
+INFO 2025-05-13 22:26:59 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.3181
+INFO 2025-05-13 22:51:03 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 22:51:03 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 22:51:03 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 22:51:03 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 22:51:03 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 22:51:03 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 22:51:03 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 22:51:04 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 22:51:04 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 22:51:04 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 22:51:04 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 22:51:04 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+WARNING 2025-05-13 22:51:17 detection.py: 137] No face feature extracted.
+INFO 2025-05-13 22:51:27 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 22:51:28 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 22:51:28 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 22:51:28 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 22:51:28 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 22:51:28 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 22:51:28 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 22:51:29 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 22:51:29 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 22:51:29 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 22:51:29 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 22:51:29 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 22:51:56 detection.py: 124] Saved face feature for: "Dawid" with confidence: 0.9994
+INFO 2025-05-13 22:52:12 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 22:52:12 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 22:52:12 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 22:52:13 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 22:52:13 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 22:52:13 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 22:52:13 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 22:52:13 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-13 22:52:13 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 22:52:13 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-13 22:52:13 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-13 22:52:14 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-13 22:53:00 detection.py: 124] Saved face feature for: "Dawid" with confidence: 0.9999
+INFO 2025-05-13 22:54:37 detection.py: 124] Saved face feature for: "Czarek" with confidence: 0.9999
+INFO 2025-05-13 22:55:56 detection.py: 124] Saved face feature for: "Julia" with confidence: 1.0000
+INFO 2025-05-13 22:56:09 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.9676
+INFO 2025-05-13 22:56:10 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.9677
+INFO 2025-05-13 22:56:10 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.9691
+INFO 2025-05-13 22:56:10 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.9742
+INFO 2025-05-13 22:56:12 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.9751
+INFO 2025-05-13 22:56:12 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.9772
+INFO 2025-05-13 22:56:13 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.9823
+INFO 2025-05-13 22:56:13 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.9853
+INFO 2025-05-13 22:56:14 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.9893
+INFO 2025-05-13 22:56:14 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 1.0000
+INFO 2025-05-13 22:56:27 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.9599
+INFO 2025-05-13 22:56:27 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.9609
+INFO 2025-05-13 22:56:28 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.9672
+INFO 2025-05-13 22:56:28 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.9691
+INFO 2025-05-13 22:56:28 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.9714
+INFO 2025-05-13 22:56:29 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.9721
+INFO 2025-05-13 22:56:29 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.9726
+INFO 2025-05-13 22:56:31 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.9738
+INFO 2025-05-13 22:56:31 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.9760
+INFO 2025-05-13 22:56:32 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.9810
+INFO 2025-05-13 22:56:32 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 1.0000
+INFO 2025-05-13 22:57:25 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.9260
+INFO 2025-05-13 22:57:27 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.9274
+INFO 2025-05-13 22:57:27 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.9328
+INFO 2025-05-13 22:57:27 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.9433
+INFO 2025-05-13 22:57:29 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.9537
+INFO 2025-05-13 22:57:29 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.9544
+INFO 2025-05-13 22:57:30 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.9574
+INFO 2025-05-13 22:57:32 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.9585
+INFO 2025-05-13 22:57:32 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.9592
+INFO 2025-05-13 22:57:33 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.9639
+INFO 2025-05-13 22:57:33 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.9655
+INFO 2025-05-13 22:57:35 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.9684
+INFO 2025-05-13 22:57:35 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.9720
+INFO 2025-05-13 22:57:35 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.9725
+INFO 2025-05-13 22:57:36 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.9755
+INFO 2025-05-13 22:57:36 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.9855
+INFO 2025-05-13 22:57:36 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 1.0000
+INFO 2025-05-13 22:57:47 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.9597
+INFO 2025-05-13 22:57:51 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.9603
+INFO 2025-05-13 22:58:22 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.9601
+INFO 2025-05-13 22:58:23 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.9631
+INFO 2025-05-13 22:58:23 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.9670
+INFO 2025-05-13 22:58:23 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.9687
+INFO 2025-05-13 22:59:03 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.9217
+INFO 2025-05-13 22:59:03 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.9519
+INFO 2025-05-13 22:59:03 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.9606
+INFO 2025-05-13 22:59:04 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.9637
+INFO 2025-05-13 22:59:05 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.9638
+INFO 2025-05-13 22:59:09 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.9667
+WARNING 2025-05-13 23:00:09 recognition.py: 169] No video file selected.
+INFO 2025-05-13 23:00:21 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.3468
+INFO 2025-05-13 23:00:22 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.3480
+INFO 2025-05-13 23:00:22 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.3524
+INFO 2025-05-13 23:00:22 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.3738
+INFO 2025-05-13 23:00:23 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.3815
+INFO 2025-05-13 23:00:23 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.3994
+INFO 2025-05-13 23:00:28 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.4230
+INFO 2025-05-13 23:00:38 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.4368
+INFO 2025-05-13 23:01:21 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.4329
+INFO 2025-05-13 23:01:21 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.4559
+INFO 2025-05-13 23:01:22 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.4797
+INFO 2025-05-13 23:01:23 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.4996
+INFO 2025-05-13 23:01:31 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.5039
+INFO 2025-05-13 23:01:33 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.5127
+INFO 2025-05-13 23:01:34 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.5137
+INFO 2025-05-13 23:01:52 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.8840
+INFO 2025-05-13 23:01:52 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.8956
+INFO 2025-05-13 23:01:54 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.8992
+INFO 2025-05-13 23:01:54 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.9021
+INFO 2025-05-13 23:01:56 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.9022
+INFO 2025-05-13 23:01:56 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.9033
+INFO 2025-05-13 23:02:26 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.3053
+INFO 2025-05-13 23:02:27 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.3496
+INFO 2025-05-13 23:02:28 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.3539
+INFO 2025-05-13 23:02:29 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.3817
+INFO 2025-05-13 23:02:30 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.3909
+INFO 2025-05-13 23:02:31 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.4070
+INFO 2025-05-13 23:02:35 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.4451
+INFO 2025-05-13 23:02:54 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.0793
+INFO 2025-05-13 23:02:54 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.0816
+INFO 2025-05-13 23:02:55 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.1189
+INFO 2025-05-13 23:03:34 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.3053
+INFO 2025-05-13 23:03:35 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.3496
+INFO 2025-05-13 23:03:35 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.3539
+INFO 2025-05-13 23:03:36 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.3817
+INFO 2025-05-13 23:03:37 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.3909
+INFO 2025-05-13 23:03:38 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.4070
+INFO 2025-05-13 23:03:42 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.4451
+INFO 2025-05-13 23:03:54 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.1737
+INFO 2025-05-13 23:03:54 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.1960
+INFO 2025-05-13 23:03:54 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.1973
+INFO 2025-05-13 23:03:54 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.3004
+INFO 2025-05-13 23:03:55 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.3157
+INFO 2025-05-13 23:03:56 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.3383
+INFO 2025-05-13 23:03:56 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.3627
+INFO 2025-05-13 23:04:32 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.1414
+INFO 2025-05-13 23:04:32 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.1424
+INFO 2025-05-13 23:04:32 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.1543
+INFO 2025-05-13 23:04:33 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.1752
+INFO 2025-05-13 23:04:36 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.1810
+INFO 2025-05-13 23:04:37 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.1865
+INFO 2025-05-13 23:04:37 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.1868
+INFO 2025-05-13 23:05:06 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.2772
+INFO 2025-05-13 23:05:07 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.2954
+INFO 2025-05-13 23:05:09 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.2990
+INFO 2025-05-13 23:05:13 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.2998
+INFO 2025-05-13 23:05:14 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.3131
+INFO 2025-05-13 23:05:14 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.3138
+INFO 2025-05-13 23:05:15 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.3139
+INFO 2025-05-13 23:05:16 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.3153
+INFO 2025-05-13 23:05:17 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.3244
+INFO 2025-05-13 23:05:55 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.1060
+INFO 2025-05-13 23:05:55 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.1084
+INFO 2025-05-13 23:05:55 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.1126
+INFO 2025-05-13 23:05:57 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.1170
+INFO 2025-05-13 23:06:00 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.1212
+INFO 2025-05-13 23:06:01 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.1366
+INFO 2025-05-13 23:06:41 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.6269
+INFO 2025-05-13 23:06:41 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.6424
+INFO 2025-05-13 23:06:42 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.7436
+INFO 2025-05-13 23:06:42 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.7621
+INFO 2025-05-13 23:06:42 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.7658
+INFO 2025-05-13 23:06:43 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.7737
+INFO 2025-05-13 23:06:43 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.7793
+INFO 2025-05-13 23:06:43 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.7806
+INFO 2025-05-13 23:07:06 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.4910
+INFO 2025-05-13 23:07:07 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.5078
+INFO 2025-05-13 23:07:07 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.5330
+INFO 2025-05-13 23:07:08 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.5937
+INFO 2025-05-13 23:07:08 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.6063
+INFO 2025-05-13 23:07:08 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.6369
+INFO 2025-05-13 23:07:20 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.6927
+INFO 2025-05-13 23:07:50 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.6211
+INFO 2025-05-13 23:07:51 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.6379
+INFO 2025-05-13 23:07:52 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.6541
+INFO 2025-05-13 23:07:52 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.6588
+INFO 2025-05-13 23:07:54 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.6622
+INFO 2025-05-13 23:07:55 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.6707
+INFO 2025-05-13 23:07:55 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.6772
+INFO 2025-05-13 23:07:59 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.6823
+INFO 2025-05-13 23:07:59 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.6862
+INFO 2025-05-13 23:08:03 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.7027
+INFO 2025-05-14 12:58:55 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-14 12:58:55 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-14 12:58:55 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-14 12:58:56 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-14 12:58:56 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-14 12:58:56 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-14 12:58:56 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-14 12:58:56 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-14 12:58:56 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-14 12:58:57 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-14 12:58:57 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-14 12:58:57 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-14 12:59:54 detection.py: 124] Saved face feature for: "dawid" with confidence: 0.9999
+INFO 2025-05-14 13:00:11 recognition.py: 134] Updated best face recognition as: "dawid" with certainty: 0.2405
+INFO 2025-05-14 13:00:11 recognition.py: 134] Updated best face recognition as: "dawid" with certainty: 0.3334
+INFO 2025-05-14 13:00:12 recognition.py: 134] Updated best face recognition as: "dawid" with certainty: 0.4390
+INFO 2025-05-14 13:00:12 recognition.py: 134] Updated best face recognition as: "dawid" with certainty: 0.5173
+INFO 2025-05-14 13:01:20 recognition.py: 134] Updated best face recognition as: "dawid" with certainty: 0.3852
+INFO 2025-05-14 13:01:20 recognition.py: 134] Updated best face recognition as: "dawid" with certainty: 0.4524
+INFO 2025-05-14 13:01:20 recognition.py: 134] Updated best face recognition as: "dawid" with certainty: 0.6612
+INFO 2025-05-14 13:01:20 recognition.py: 134] Updated best face recognition as: "dawid" with certainty: 0.6790
+INFO 2025-05-14 13:01:21 recognition.py: 134] Updated best face recognition as: "dawid" with certainty: 0.8240
+INFO 2025-05-14 13:01:21 recognition.py: 134] Updated best face recognition as: "dawid" with certainty: 0.8649
+INFO 2025-05-14 13:01:21 recognition.py: 134] Updated best face recognition as: "dawid" with certainty: 0.9100
+INFO 2025-05-14 13:01:21 recognition.py: 134] Updated best face recognition as: "dawid" with certainty: 1.0000
+INFO 2025-05-14 13:03:39 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-14 13:03:39 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-14 13:03:39 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-14 13:03:39 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-14 13:03:39 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-14 13:03:40 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-14 13:03:40 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-14 13:03:40 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-14 13:03:40 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-14 13:03:40 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-14 13:03:40 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-14 13:03:40 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-14 13:04:17 detection.py: 124] Saved face feature for: "Julia" with confidence: 1.0000
+INFO 2025-05-14 13:04:57 detection.py: 124] Saved face feature for: "Czarek" with confidence: 1.0000
+INFO 2025-05-14 13:05:26 detection.py: 124] Saved face feature for: "Dawid" with confidence: 0.9999
+INFO 2025-05-14 13:05:58 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.3852
+INFO 2025-05-14 13:05:58 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.4524
+INFO 2025-05-14 13:05:58 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.6612
+INFO 2025-05-14 13:05:58 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.6790
+INFO 2025-05-14 13:05:58 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.8240
+INFO 2025-05-14 13:05:59 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.8649
+INFO 2025-05-14 13:05:59 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.9100
+INFO 2025-05-14 13:05:59 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 1.0000
+INFO 2025-05-14 13:06:44 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.3152
+INFO 2025-05-14 13:06:45 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.4561
+INFO 2025-05-14 13:06:45 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.4809
+INFO 2025-05-14 13:06:45 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.7091
+INFO 2025-05-14 13:06:45 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.7317
+INFO 2025-05-14 13:06:45 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.7526
+INFO 2025-05-14 13:06:46 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.7535
+INFO 2025-05-14 13:06:46 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.8103
+INFO 2025-05-14 13:06:47 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.8248
+INFO 2025-05-14 13:06:47 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.8782
+INFO 2025-05-14 13:06:47 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.8893
+INFO 2025-05-14 13:06:47 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.9105
+INFO 2025-05-14 13:06:47 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.9110
+INFO 2025-05-14 13:06:47 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.9393
+INFO 2025-05-14 13:06:48 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 1.0000
+INFO 2025-05-14 13:07:06 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.3641
+INFO 2025-05-14 13:07:06 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.6768
+INFO 2025-05-14 13:07:06 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.8345
+INFO 2025-05-14 13:07:07 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.8764
+INFO 2025-05-14 13:07:07 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.9112
+INFO 2025-05-14 13:07:07 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 1.0000
+INFO 2025-05-14 13:07:21 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.0900
+INFO 2025-05-14 13:07:21 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.3204
+INFO 2025-05-14 13:07:21 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.3957
+INFO 2025-05-14 13:07:21 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.5136
+INFO 2025-05-14 13:07:21 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.7322
+INFO 2025-05-14 13:07:21 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.7435
+INFO 2025-05-14 13:07:22 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.7530
+INFO 2025-05-14 13:07:22 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.7555
+INFO 2025-05-14 13:07:22 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.7888
+INFO 2025-05-14 13:07:22 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.8273
+INFO 2025-05-14 13:07:22 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.8425
+INFO 2025-05-14 13:07:23 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.8631
+INFO 2025-05-14 13:07:23 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.8726
+INFO 2025-05-14 13:07:23 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.8792
+INFO 2025-05-14 13:07:24 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.8805
+INFO 2025-05-14 13:08:04 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.3552
+INFO 2025-05-14 13:08:04 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.4940
+INFO 2025-05-14 13:08:04 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.6690
+INFO 2025-05-14 13:08:04 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.7755
+INFO 2025-05-14 13:08:05 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.7800
+INFO 2025-05-14 13:08:46 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.0233
+INFO 2025-05-14 13:08:46 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.2711
+INFO 2025-05-14 13:08:46 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.6715
+INFO 2025-05-14 13:08:46 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.7342
+INFO 2025-05-14 13:08:46 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.8075
+INFO 2025-05-14 13:08:47 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.8480
+INFO 2025-05-14 13:10:11 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.1862
+INFO 2025-05-14 13:10:12 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.2020
+INFO 2025-05-14 13:10:12 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.3388
+INFO 2025-05-14 13:10:12 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.5621
+INFO 2025-05-14 13:10:13 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.6111
+INFO 2025-05-14 13:10:14 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.6215
+INFO 2025-05-14 13:10:14 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.6234
+INFO 2025-05-14 13:10:14 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.6663
+INFO 2025-05-14 13:10:15 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.6830
+INFO 2025-05-14 13:10:15 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.7284
+INFO 2025-05-14 13:10:15 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.7285
+INFO 2025-05-14 13:10:15 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.7377
+INFO 2025-05-14 13:10:16 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.7398
+INFO 2025-05-14 13:10:16 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.7688
+INFO 2025-05-14 13:11:12 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.2339
+INFO 2025-05-14 13:11:13 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.3206
+INFO 2025-05-14 13:11:13 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.3408
+INFO 2025-05-14 13:11:13 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.4105
+INFO 2025-05-14 13:11:13 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.5666
+INFO 2025-05-14 13:11:14 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.6642
+INFO 2025-05-14 13:11:14 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.6772
+INFO 2025-05-14 13:11:51 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.0748
+INFO 2025-05-14 13:11:51 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.2366
+INFO 2025-05-14 13:11:51 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.4849
+INFO 2025-05-14 13:11:51 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.5464
+INFO 2025-05-14 13:11:52 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.5766
+INFO 2025-05-14 13:11:52 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.5858
+INFO 2025-05-14 13:11:53 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.6345
+INFO 2025-05-14 13:11:53 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.6400
+INFO 2025-05-14 13:11:53 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.6652
+INFO 2025-05-14 13:12:34 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.0217
+INFO 2025-05-14 13:12:35 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.0742
+INFO 2025-05-14 13:12:35 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.0843
+INFO 2025-05-14 13:12:35 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.0912
+INFO 2025-05-14 13:12:36 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.1640
+INFO 2025-05-14 13:12:36 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.1773
+INFO 2025-05-14 13:12:36 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.1871
+INFO 2025-05-14 13:12:36 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.2486
+INFO 2025-05-14 13:12:37 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.2745
+INFO 2025-05-14 13:12:37 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.2832
+INFO 2025-05-14 13:13:25 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.2332
+INFO 2025-05-14 13:13:26 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.2469
+INFO 2025-05-14 13:13:26 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.3109
+INFO 2025-05-14 13:13:30 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.3190
+INFO 2025-05-14 13:13:31 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.3283
+INFO 2025-05-14 13:13:31 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.3424
+INFO 2025-05-14 13:13:31 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.3485
+INFO 2025-05-14 13:13:31 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.3615
+INFO 2025-05-14 13:13:32 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.3887
+INFO 2025-05-14 13:13:32 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.4496
+INFO 2025-05-14 13:13:33 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.4826
+INFO 2025-05-14 13:13:34 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.4875
+INFO 2025-05-14 13:14:07 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.0685
+INFO 2025-05-14 13:14:07 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.0978
+INFO 2025-05-14 13:14:08 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.1927
+INFO 2025-05-14 13:14:09 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.2029
+INFO 2025-05-14 13:14:09 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.2414
+INFO 2025-05-14 13:14:09 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.2813
+INFO 2025-05-14 13:14:56 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.3175
+INFO 2025-05-14 13:14:56 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.4573
+INFO 2025-05-14 13:14:56 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.5379
+INFO 2025-05-14 13:14:56 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.6307
+INFO 2025-05-14 13:14:56 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.7019
+INFO 2025-05-14 13:14:57 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.7213
+INFO 2025-05-14 13:14:57 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.7660
+INFO 2025-05-14 13:14:57 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.7704
+INFO 2025-05-14 13:14:57 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.7714
+INFO 2025-05-14 13:14:57 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.7827
+INFO 2025-05-14 13:14:59 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.7980
+INFO 2025-05-14 13:16:16 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.2812
+INFO 2025-05-14 13:16:16 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.4643
+INFO 2025-05-14 13:16:16 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.5905
+INFO 2025-05-14 13:16:16 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.6363
+INFO 2025-05-14 13:16:17 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.6888
+INFO 2025-05-14 13:16:17 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.7038
+INFO 2025-05-14 13:17:16 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.2405
+INFO 2025-05-14 13:17:16 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.3334
+INFO 2025-05-14 13:17:16 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.4390
+INFO 2025-05-14 13:17:17 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.5173
+INFO 2025-05-14 13:18:03 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.1811
+INFO 2025-05-14 13:18:05 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.1995
+INFO 2025-05-14 13:18:05 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.5598
+INFO 2025-05-14 13:18:05 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.6224
+INFO 2025-05-14 13:18:06 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.7459
+INFO 2025-05-14 13:18:06 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.7584
+INFO 2025-05-14 13:18:07 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.7611
+INFO 2025-05-14 13:18:41 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.3813
+INFO 2025-05-14 13:18:42 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.5719
+INFO 2025-05-14 13:18:42 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.7312
+INFO 2025-05-14 13:18:42 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.7647
+INFO 2025-05-14 13:19:28 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.0028
+INFO 2025-05-14 13:19:28 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.2048
+INFO 2025-05-14 13:19:29 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.5792
+INFO 2025-05-14 13:19:29 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.6227
+INFO 2025-05-14 13:19:29 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.6472
+INFO 2025-05-14 13:19:29 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.7022
+INFO 2025-05-14 13:19:29 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.7275
+INFO 2025-05-14 13:19:29 recognition.py: 134] Updated best face recognition as: "Czarek" with certainty: 0.7562
+INFO 2025-05-14 13:33:49 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.0857
+INFO 2025-05-14 13:33:50 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.1203
+INFO 2025-05-14 13:33:57 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.1272
+INFO 2025-05-14 13:34:58 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-14 13:34:59 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-14 13:34:59 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-14 13:34:59 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-14 13:34:59 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-14 13:34:59 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-14 13:34:59 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-14 13:35:00 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-14 13:35:00 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-14 13:35:00 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-14 13:35:00 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-14 13:35:00 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+ERROR 2025-05-14 13:35:11 recognition.py: 89] No stored features found. Run feature saving script first.
+INFO 2025-05-14 13:35:51 detection.py: 124] Saved face feature for: "Julia" with confidence: 1.0000
+INFO 2025-05-14 13:36:01 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.0721
+INFO 2025-05-14 13:36:01 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.0762
+INFO 2025-05-14 13:36:02 recognition.py: 134] Updated best face recognition as: "Julia" with certainty: 0.1189
+INFO 2025-05-14 13:38:00 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-14 13:38:01 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-14 13:38:01 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-14 13:38:01 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-14 13:38:01 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-14 13:38:01 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-14 13:38:01 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-14 13:38:01 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-14 13:38:01 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-14 13:38:02 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-14 13:38:02 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-14 13:38:02 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-14 13:38:37 detection.py: 124] Saved face feature for: "Dawid" with confidence: 0.9999
+WARNING 2025-05-14 13:38:54 detection.py: 152] No video file selected.
+INFO 2025-05-14 13:39:01 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.7140
+INFO 2025-05-14 13:39:01 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.7300
+INFO 2025-05-14 13:39:01 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.7381
+INFO 2025-05-14 13:39:05 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.7456
+INFO 2025-05-14 13:39:05 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.7487
+INFO 2025-05-14 13:43:32 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.6984
+INFO 2025-05-14 13:43:32 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.7075
+INFO 2025-05-14 13:43:35 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.7196
+INFO 2025-05-14 13:43:35 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.7282
+INFO 2025-05-14 13:43:37 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.7410
+INFO 2025-05-14 13:43:37 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.7534
+INFO 2025-05-14 13:52:16 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-14 13:52:16 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-14 13:52:16 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-14 13:52:17 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-14 13:52:17 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-14 13:52:17 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-14 13:52:17 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-14 13:52:17 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-14 13:52:17 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-14 13:52:18 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-14 13:52:18 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-14 13:52:18 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-14 13:52:30 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.5170
+INFO 2025-05-14 13:52:31 recognition.py: 134] Updated best face recognition as: "Dawid" with certainty: 0.5899
+INFO 2025-05-14 16:07:25 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-14 16:07:26 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-14 16:07:26 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-14 16:07:26 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-14 16:07:26 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-14 16:07:26 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-14 16:07:26 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-14 16:07:26 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-14 16:07:26 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-14 16:07:27 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-14 16:07:27 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-14 16:07:27 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+WARNING 2025-05-14 16:09:08 recognition.py: 169] No video file selected.
+INFO 2025-05-14 16:10:02 detection.py: 124] Saved face feature for: "RuchC" with confidence: 1.0000
+INFO 2025-05-14 16:10:29 detection.py: 124] Saved face feature for: "BezruchC" with confidence: 0.9999
+INFO 2025-05-14 16:11:10 detection.py: 124] Saved face feature for: "RuchD" with confidence: 0.9999
+INFO 2025-05-14 16:14:10 detection.py: 124] Saved face feature for: "RuchJ" with confidence: 1.0000
+INFO 2025-05-14 16:14:39 detection.py: 124] Saved face feature for: "BezruchD" with confidence: 0.9999
+INFO 2025-05-14 16:15:11 detection.py: 124] Saved face feature for: "BezruchJ" with confidence: 0.9999
+INFO 2025-05-14 16:19:57 recognition.py: 134] Updated best face recognition as: "RuchC" with certainty: 0.3641
+INFO 2025-05-14 16:19:58 recognition.py: 134] Updated best face recognition as: "RuchC" with certainty: 0.6769
+INFO 2025-05-14 16:19:58 recognition.py: 134] Updated best face recognition as: "RuchC" with certainty: 0.8346
+INFO 2025-05-14 16:19:58 recognition.py: 134] Updated best face recognition as: "RuchC" with certainty: 0.8764
+INFO 2025-05-14 16:19:58 recognition.py: 134] Updated best face recognition as: "RuchC" with certainty: 0.9112
+INFO 2025-05-14 16:19:58 recognition.py: 134] Updated best face recognition as: "RuchC" with certainty: 1.0000
+INFO 2025-05-14 16:20:08 recognition.py: 134] Updated best face recognition as: "BezruchD" with certainty: 0.9599
+INFO 2025-05-14 16:20:08 recognition.py: 134] Updated best face recognition as: "BezruchD" with certainty: 0.9611
+INFO 2025-05-14 16:20:08 recognition.py: 134] Updated best face recognition as: "BezruchD" with certainty: 0.9672
+INFO 2025-05-14 16:20:09 recognition.py: 134] Updated best face recognition as: "BezruchD" with certainty: 0.9691
+INFO 2025-05-14 16:20:09 recognition.py: 134] Updated best face recognition as: "BezruchD" with certainty: 0.9714
+INFO 2025-05-14 16:20:10 recognition.py: 134] Updated best face recognition as: "BezruchD" with certainty: 0.9722
+INFO 2025-05-14 16:20:10 recognition.py: 134] Updated best face recognition as: "BezruchD" with certainty: 0.9726
+INFO 2025-05-14 16:20:11 recognition.py: 134] Updated best face recognition as: "BezruchD" with certainty: 0.9726
+INFO 2025-05-14 16:20:12 recognition.py: 134] Updated best face recognition as: "BezruchD" with certainty: 0.9737
+INFO 2025-05-14 16:20:12 recognition.py: 134] Updated best face recognition as: "BezruchD" with certainty: 0.9760
+INFO 2025-05-14 16:20:12 recognition.py: 134] Updated best face recognition as: "BezruchD" with certainty: 0.9809
+INFO 2025-05-14 16:20:13 recognition.py: 134] Updated best face recognition as: "BezruchD" with certainty: 1.0000
+INFO 2025-05-14 16:38:28 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-14 16:38:28 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-14 16:38:28 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-14 16:38:29 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-14 16:38:29 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-14 16:38:29 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-14 16:38:29 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-14 16:38:29 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-14 16:38:29 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-14 16:38:30 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-14 16:38:30 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-14 16:38:30 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+WARNING 2025-05-14 16:38:39 recognition.py: 169] No video file selected.
+INFO 2025-05-14 16:39:17 detection.py: 124] Saved face feature for: "BezruchC" with confidence: 0.9999
+INFO 2025-05-14 16:39:43 detection.py: 124] Saved face feature for: "BezruchD" with confidence: 0.9999
+INFO 2025-05-14 16:40:24 detection.py: 124] Saved face feature for: "BezruchJ" with confidence: 0.9999
+WARNING 2025-05-14 16:43:33 recognition.py: 169] No video file selected.
+INFO 2025-05-14 16:43:54 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-14 16:43:54 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-14 16:43:54 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-14 16:43:55 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-14 16:43:55 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-14 16:43:55 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-14 16:43:55 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-14 16:43:55 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-14 16:43:55 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-14 16:43:55 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-14 16:43:55 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-14 16:43:56 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-14 16:44:23 detection.py: 124] Saved face feature for: "WzorzecC" with confidence: 0.9999
+INFO 2025-05-14 16:45:11 detection.py: 124] Saved face feature for: "WzorzecD" with confidence: 0.9996
+INFO 2025-05-14 16:45:37 detection.py: 124] Saved face feature for: "WzorzecJ" with confidence: 1.0000
+INFO 2025-05-14 16:46:19 recognition.py: 134] Updated best face recognition as: "WzorzecC" with certainty: 0.0236
+INFO 2025-05-14 16:46:20 recognition.py: 134] Updated best face recognition as: "WzorzecC" with certainty: 0.3191
+INFO 2025-05-14 16:46:20 recognition.py: 134] Updated best face recognition as: "WzorzecC" with certainty: 0.5706
+INFO 2025-05-14 16:46:20 recognition.py: 134] Updated best face recognition as: "WzorzecC" with certainty: 0.6905
+INFO 2025-05-14 16:46:20 recognition.py: 134] Updated best face recognition as: "WzorzecC" with certainty: 0.7217
+INFO 2025-05-14 16:46:20 recognition.py: 134] Updated best face recognition as: "WzorzecC" with certainty: 0.7759
+INFO 2025-05-14 16:47:48 recognition.py: 134] Updated best face recognition as: "WzorzecJ" with certainty: 0.0823
+INFO 2025-05-14 16:47:49 recognition.py: 134] Updated best face recognition as: "WzorzecJ" with certainty: 0.3181
+INFO 2025-05-14 16:47:49 recognition.py: 134] Updated best face recognition as: "WzorzecJ" with certainty: 0.3666
+INFO 2025-05-14 16:47:49 recognition.py: 134] Updated best face recognition as: "WzorzecJ" with certainty: 0.4264
+INFO 2025-05-14 16:47:49 recognition.py: 134] Updated best face recognition as: "WzorzecJ" with certainty: 0.6655
+INFO 2025-05-14 16:47:49 recognition.py: 134] Updated best face recognition as: "WzorzecJ" with certainty: 0.6659
+INFO 2025-05-14 16:47:50 recognition.py: 134] Updated best face recognition as: "WzorzecJ" with certainty: 0.6787
+INFO 2025-05-14 16:47:50 recognition.py: 134] Updated best face recognition as: "WzorzecJ" with certainty: 0.7126
+INFO 2025-05-14 16:47:50 recognition.py: 134] Updated best face recognition as: "WzorzecJ" with certainty: 0.7371
+INFO 2025-05-14 16:47:51 recognition.py: 134] Updated best face recognition as: "WzorzecJ" with certainty: 0.7396
+INFO 2025-05-14 16:47:51 recognition.py: 134] Updated best face recognition as: "WzorzecJ" with certainty: 0.7715
+INFO 2025-05-14 16:47:51 recognition.py: 134] Updated best face recognition as: "WzorzecJ" with certainty: 0.7761
+INFO 2025-05-14 16:47:52 recognition.py: 134] Updated best face recognition as: "WzorzecJ" with certainty: 0.7793
+INFO 2025-05-14 16:47:52 recognition.py: 134] Updated best face recognition as: "WzorzecJ" with certainty: 0.7933
+INFO 2025-05-14 16:47:52 recognition.py: 134] Updated best face recognition as: "WzorzecJ" with certainty: 0.8022
+INFO 2025-05-14 16:48:25 recognition.py: 134] Updated best face recognition as: "WzorzecD" with certainty: 0.2735
+INFO 2025-05-14 16:48:25 recognition.py: 134] Updated best face recognition as: "WzorzecD" with certainty: 0.4295
+INFO 2025-05-14 16:48:26 recognition.py: 134] Updated best face recognition as: "WzorzecD" with certainty: 0.6626
+INFO 2025-05-14 16:48:26 recognition.py: 134] Updated best face recognition as: "WzorzecD" with certainty: 0.7469
+INFO 2025-05-14 16:48:26 recognition.py: 134] Updated best face recognition as: "WzorzecD" with certainty: 0.8072
+INFO 2025-05-14 16:48:26 recognition.py: 134] Updated best face recognition as: "WzorzecD" with certainty: 0.8214
+INFO 2025-05-14 16:48:26 recognition.py: 134] Updated best face recognition as: "WzorzecD" with certainty: 0.8473
+INFO 2025-05-14 16:48:55 recognition.py: 134] Updated best face recognition as: "WzorzecJ" with certainty: 0.0771
+INFO 2025-05-14 16:48:55 recognition.py: 134] Updated best face recognition as: "WzorzecJ" with certainty: 0.0803
+INFO 2025-05-14 16:48:56 recognition.py: 134] Updated best face recognition as: "WzorzecJ" with certainty: 0.0836
+INFO 2025-05-14 16:48:59 recognition.py: 134] Updated best face recognition as: "WzorzecC" with certainty: 0.0840
+INFO 2025-05-14 16:48:59 recognition.py: 134] Updated best face recognition as: "WzorzecC" with certainty: 0.0930
+INFO 2025-05-14 16:49:00 recognition.py: 134] Updated best face recognition as: "WzorzecC" with certainty: 0.0934
+INFO 2025-05-14 16:49:01 recognition.py: 134] Updated best face recognition as: "WzorzecC" with certainty: 0.0985
