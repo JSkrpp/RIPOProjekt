@@ -114,7 +114,7 @@ def detect_and_save_feature(cap, entity_name):
                 cv2.putText(frame, max_conf_text, (10, 30), cv2.FONT_HERSHEY_SIMPLEX, font_scale, font_color, 1)
 
         cv2.imshow("Detekcja Twarzy i Zapis Wzorca", frame)
-        if cv2.waitKey(1) & 0xFF == ord('q'):
+        if cv2.waitKey(1) & 0xFF == 13: # enter
             break
 
     cap.release()

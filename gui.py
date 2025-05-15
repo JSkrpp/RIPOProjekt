@@ -1,6 +1,5 @@
 import tkinter as tk
 from tkinter import ttk
-from PIL import Image, ImageTk
 
 from recognition import recognize_camera, recognize_video
 from detection import detect_camera, detect_video

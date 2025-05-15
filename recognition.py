@@ -70,6 +70,33 @@ def extract_face_feature(image, face_det_handler, face_align_handler, face_rec_h
     cropped_face = face_cropper.crop_image_by_mat(image, landmarks.flatten().tolist())
     return face_rec_handler.inference_on_image(cropped_face)
 
+
+# Function to perform white balance correction
+def correct_white_balance(image):
+    lab = cv2.cvtColor(image, cv2.COLOR_BGR2LAB)
+    l, a, b = cv2.split(lab)
+
+    a_mean, b_mean = cv2.mean(a)[0], cv2.mean(b)[0]
+    a = cv2.subtract(a, (a_mean - 128))
+    b = cv2.subtract(b, (b_mean - 128))
+
+    lab_corrected = cv2.merge([l, a, b])
+    corrected_image = cv2.cvtColor(lab_corrected, cv2.COLOR_LAB2BGR)
+
+    return corrected_image
+
+# Function to equalize hist using CLAHE
+def equalize_hist(image):
+    lab = cv2.cvtColor(image, cv2.COLOR_BGR2LAB)
+    l, a, b = cv2.split(lab)
+
+    clahe = cv2.createCLAHE(clipLimit=2.0, tileGridSize=(8, 8))
+    eq_l = clahe.apply(l)
+    eq_lab_image = cv2.merge((eq_l, a, b))
+    eq_image = cv2.cvtColor(eq_lab_image, cv2.COLOR_LAB2BGR)
+
+    return eq_image
+
 # Recognizing from precomputed features
 def recognize(cap):
     with open('config/app_conf.yaml') as f:
@@ -82,6 +109,7 @@ def recognize(cap):
     show_best = app_conf['recognition']['show_best']
     font_scale = app_conf['recognition']['font_scale']
     font_color = tuple(reversed(app_conf['recognition']['font_color']))
+    color_improvement = app_conf['core']['color_improvement']
 
     # Load precomputed features
     feature_path = './stored_features.pkl'
@@ -100,6 +128,10 @@ def recognize(cap):
         if not ret:
             cap.set(cv2.CAP_PROP_POS_FRAMES, 0)
             continue
+
+        if color_improvement:
+            frame = correct_white_balance(frame)
+            frame = equalize_hist(frame)
 
         try:
             detections = face_det_handler.inference_on_image(frame)
@@ -147,7 +179,7 @@ def recognize(cap):
                         font_scale, font_color, 1)
 
         cv2.imshow('Rozpoznawanie Twarzy', frame)
-        if cv2.waitKey(1) & 0xFF == ord('q'):
+        if cv2.waitKey(1) & 0xFF == 13: # enter
             break
 
     cap.release()

@@ -1,4 +1,5 @@
 core:
+  color_improvement: true
   device: cuda
 detection:
   box_color:

@@ -16,7 +16,7 @@ def configure():
     config = load_config()
     window = tk.Toplevel()
     window.title("Konfigurator")
-    window.geometry("320x560")
+    window.geometry("360x600")
     window.configure(padx=20, pady=20)
 
     style = ttk.Style()
@@ -25,9 +25,12 @@ def configure():
     style.configure("TCheckbutton", font=("Segoe UI", 10))
     style.configure("TNotebook", tabmargins=[2, 5, 2, 0])
 
-    ttk.Label(window, text="Urządzenie obliczeniowe (wymaga resetu oprogramowania)").pack(anchor="center", pady=(0, 5))
+    ttk.Label(window, text="Urządzenie obliczeniowe (wymaga resetu)").pack(anchor="center", pady=(0, 5))
     device_var = tk.StringVar(value=config['core'].get('device', 'cpu'))
     ttk.Combobox(window, textvariable=device_var, values=["cpu", "cuda"], state="readonly", width=10).pack(anchor="center", pady=(0, 10))
+
+    color_improvement_var = tk.BooleanVar(value=config['core'].get('color_improvement', False))
+    ttk.Checkbutton(window, text="Popraw jakość rozpoznania w kolorowym świetle.", variable=color_improvement_var).pack(anchor="center", pady=(0, 10))
 
     notebook = ttk.Notebook(window)
     notebook.pack(fill="both", expand=True)
@@ -79,12 +82,13 @@ def configure():
             'font_scale_spin': font_scale_spin
         }
 
-    detection_widgets = create_section('detekcja', config['detection'])
-    recognition_widgets = create_section('rozpoznanie', config['recognition'])
+    detection_widgets = create_section('detection', config['detection'])
+    recognition_widgets = create_section('recognition', config['recognition'])
 
     def save_and_close():
         try:
             config['core']['device'] = device_var.get()
+            config['core']['color_improvement'] = color_improvement_var.get()
 
             for key, widgets in [('detection', detection_widgets), ('recognition', recognition_widgets)]:
                 section = config[key]
