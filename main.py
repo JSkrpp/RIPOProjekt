@@ -4,6 +4,7 @@ from tkinter import ttk
 from configurator import configure
 import gui
 
+
 def main():
     root = tk.Tk()
     root.title("RiPO")
@@ -37,6 +38,7 @@ def main():
     btn_config.pack(pady=10, padx=20, fill=tk.X)
 
     root.mainloop()
+
 
 if __name__ == "__main__":
     main()

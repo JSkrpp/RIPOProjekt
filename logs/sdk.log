@@ -2386,3 +2386,32 @@ INFO 2025-05-15 17:25:59 BaseModelLoader.py: 34] Successfully parsed the model c
 INFO 2025-05-15 17:25:59 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
 INFO 2025-05-15 17:25:59 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
 INFO 2025-05-15 17:26:00 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-17 23:04:01 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-17 23:04:01 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-17 23:04:01 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-17 23:04:01 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-17 23:04:01 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+ERROR 2025-05-17 23:04:01 FaceRecModelLoader.py: 36] The model failed to load, please check the model path: models\face_recognition\face_recognition_1.0\face_recognition_mv.pkl!
+INFO 2025-05-17 23:25:27 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-17 23:25:27 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-17 23:25:27 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+ERROR 2025-05-17 23:25:27 FaceAlignModelLoader.py: 25] The model failed to load, please check the model path: models\face_alignment\face_alignment_1.0\face_landmark_pfld.pkl!
+INFO 2025-05-17 23:33:10 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-17 23:33:10 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-17 23:33:10 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-17 23:33:10 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-17 23:33:10 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-17 23:33:10 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+INFO 2025-05-17 23:33:10 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-17 23:33:10 FaceDetModelLoader.py: 34] Successfully loaded the face detection model!
+INFO 2025-05-17 23:33:10 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-17 23:33:10 FaceAlignModelLoader.py: 29] Successfully loaded the face landmark model!
+INFO 2025-05-17 23:33:10 BaseModelLoader.py: 34] Successfully parsed the model configuration file meta.json!
+INFO 2025-05-17 23:33:10 FaceRecModelLoader.py: 40] Successfully loaded the face recognition model!
+WARNING 2025-05-17 23:33:18 recognition.py: 201] No video file selected.
+INFO 2025-05-17 23:33:22 recognition.py: 166] Updated best face recognition as: "Dawid" with certainty: 0.1647
+INFO 2025-05-17 23:33:31 recognition.py: 166] Updated best face recognition as: "Dawid" with certainty: 0.1782
+INFO 2025-05-17 23:33:32 recognition.py: 166] Updated best face recognition as: "Dawid" with certainty: 0.1992
+INFO 2025-05-17 23:33:59 recognition.py: 166] Updated best face recognition as: "Czarek" with certainty: 0.2172
+INFO 2025-05-17 23:34:00 recognition.py: 166] Updated best face recognition as: "Czarek" with certainty: 0.2390
+INFO 2025-05-17 23:34:00 recognition.py: 166] Updated best face recognition as: "Czarek" with certainty: 0.2447

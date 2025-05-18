@@ -4,12 +4,17 @@
 @contact: jun21wangustc@gmail.com 
 """
 import sys
-
+import os
 import torch
 
 sys.path.append('.')
 import logging.config
-logging.config.fileConfig("config/logging.conf")
+
+root_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
+
+# Construct the absolute path to the logging configuration file
+log_config_path = os.path.join(root_dir, "config\\logging.conf")
+logging.config.fileConfig(log_config_path)
 logger = logging.getLogger('api')
 
 import yaml
@@ -28,7 +33,7 @@ if __name__ == '__main__':
     # model setting, modified along with model
     scene = 'non-mask'
     model_category = 'face_detection'
-    model_name =  model_conf[scene][model_category]
+    model_name = model_conf[scene][model_category]
 
     logger.info('Start to load the face detection model...')
     # load model
